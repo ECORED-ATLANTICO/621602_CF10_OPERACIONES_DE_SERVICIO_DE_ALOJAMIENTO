@@ -1,19 +1,11 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: '<em>Check-in: process complementary services</em>',
+    Description:
+      'Este componente formativo fortalece las competencias comunicativas en inglés aplicadas al sector hotelero. Desarrolla habilidades para gestionar reservas, atender huéspedes, brindar información, manejar procesos de alojamiento, utilizar expresiones numéricas y responder a situaciones de servicio, favoreciendo una comunicación efectiva y profesional en contextos de hospitalidad.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
     menu: [
@@ -31,39 +23,43 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo:
+          '<em>Rates and customer transactions</em>/ Tarifas y transacciones con clientes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo:
+          '<em>Guest Information and Reservations</em>/ Información del huésped y reservas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo:
+          '<em>Clients, accommodation and payments</em>/ Atención al cliente y procesos de alojamiento',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo:
+          '<em>Dates, seasons and numerical expressions</em>/ Manejo de fechas y expresiones numéricas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo:
+          '<em>Schedules and describing places</em>/ Horarios y descripción de espacios',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo:
+          '<em>Service situations and instructions</em>/ Atención de situaciones especiales e instrucciones',
         desarrolloContenidos: true,
       },
     ],
@@ -85,11 +81,6 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      /*{
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -98,7 +89,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/621602_CF13_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -112,24 +103,47 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>BAR</em>',
+      significado:
+        '<em>this is an acronym for Best Available Rate, a rate created by hoteliers to confront the competency against the OTAs.</em>',
+    },
+    {
+      termino: '<em>Equinox</em>',
+      significado:
+        '<em>the time or date (twice each year) at which the sun crosses the celestial equator, when day and night are of approximately equal length (about 22 September and 20 March).</em>',
+    },
+    {
+      termino: '<em>Job</em>',
+      significado: '<em>it is a regular remunerative position.</em>',
+    },
+    {
+      termino: '<em>Position</em>',
+      significado:
+        '<em>in the context of human resources, it is an employment for which one has been hired. Example: I have been contracted as a receptionist.</em>',
+    },
+    {
+      termino: '<em>Solstice</em>',
+      significado:
+        '<em>the time or date (twice each year) at which the sun reaches its maximum or minimum declination, marked by the longest and shortest days (about 21 June and 22 December).</em>',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Martin, J. (1990). <em>Miss Manners’ Guide for the Turn-of-the-Millennium</em>. Touchstone.',
+    },
+    {
+      referencia:
+        'Merriam-Webster Dictionary. (s. f.). <em>equinox</em>. <em>The Merriam-Webster.Com Dictionary</em>.',
+      link: 'https://www.merriam-webster.com/dictionary/equinox#note-1',
+    },
+    {
+      referencia:
+        'Sila Inglés. (2021). <em>Lista de países en inglés-español (con pronunciación y PDF)</em>. Aprende Inglés Sila.',
+      link:
+        'https://www.aprendeinglessila.com/2014/01/lista-de-paises-en-ingles-espanol-con-pronunciacion-y-pdf-para-imprimir/',
     },
   ],
   creditos: [
@@ -138,13 +152,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Centro Agroturistico - Regional Santander',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Miguel de Jesús Paredes Maestre ',
-          cargo: 'Responsable de la línea de producción ',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -153,9 +166,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Harbey Castelblanco',
+          cargo: 'Experto temático',
+          centro: 'Centro Nacional Colombo Alemán',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -163,19 +181,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -183,14 +201,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
