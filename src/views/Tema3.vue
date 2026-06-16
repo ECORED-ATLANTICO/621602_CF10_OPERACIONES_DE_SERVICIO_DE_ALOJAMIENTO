@@ -88,7 +88,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto Guest Information / Información del huésped
+          h3.titulo-con-imagen__texto <em>Guest Information</em> / Información del huésped
       
 
 
@@ -176,7 +176,7 @@
               .col-12.col-lg-7.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 El siguiente documento presenta una lista de países y nacionalidades de uso frecuente en contextos hoteleros y turísticos. Este recurso favorece el desarrollo del vocabulario y las habilidades de comunicación necesarias para interactuar con huéspedes provenientes de diferentes partes del mundo.
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Lista de países inglés- español.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/lista_paises_español_ingles.pdf')" target="_blank")
                   span Ver pdf
                   i.fas.fa-file
 

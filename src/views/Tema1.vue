@@ -639,9 +639,9 @@
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 <em>You are invited to review the following video to supplement the information.</em>
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
-                  span <em>View video</em>
-                  i.fas.fa-play-circle
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/los_numeros_cardinales.pdf')" target="_blank")
+                  span <em>Download</em>
+                  i.fas.fa-file-download
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.col-md-12.order-2.order-lg-2
