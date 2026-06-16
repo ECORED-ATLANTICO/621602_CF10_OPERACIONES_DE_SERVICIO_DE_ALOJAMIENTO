@@ -145,29 +145,29 @@
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
-        p.mb-3 <em>On the other hand, there are tourist seasons, these are related to the holiday periods in which the flow of travelers usually rises. People typically talk about high and low seasons, but this depends on the destination so that the high season in one destination can be the low of another.</em>
+        p.mb-2 <em>On the other hand, there are tourist seasons, these are related to the holiday periods in which the flow of travelers usually rises. People typically talk about high and low seasons, but this depends on the destination so that the high season in one destination can be the low of another.</em>
         p.mb-3 <em>Generally, in Colombia, the following are considered.</em>
 
 
         .bg-color-5.p-4.br-15.mb-3(data-aos="fade-right")
           p.mb-3 <em>High season</em>
           ul.lista-ul.mb-0
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Easter</em> 
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Mid-year school holidays</em> 
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Recess week</em> 
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>End-of-year school holidays</em> 
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Holiday weekends</em> 
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Consequently, the low season would be the opposite periods. This example applies to destinations with a pure tourist vocation.</em>
 
@@ -177,33 +177,33 @@
           img(src="@/assets/curso/tema4/img14.png", alt="").img-fluid.mx-auto
 
       .col-lg-5.col-md-12.order-3.order-lg-3
-        p.mb-3 Por otro lado, hay temporadas turísticas, estas están relacionadas con los periodos vacacionales en los que suele subir el flujo de viajeros. Normalmente, se habla de temporada alta y baja, pero esto depende del destino, por lo que la temporada alta en un destino puede ser la baja de otro.
+        p.mb-2 Por otro lado, hay temporadas turísticas, estas están relacionadas con los periodos vacacionales en los que suele subir el flujo de viajeros. Normalmente, se habla de temporada alta y baja, pero esto depende del destino, por lo que la temporada alta en un destino puede ser la baja de otro.
         p.mb-3 Generalmente, en Colombia, se considera lo siguiente.
 
         .bg-color-23.p-4.br-15.mb-3(data-aos="fade-left")
           p.mb-3  Temporada alta:
           ul.lista-ul.mb-0
-            li
+            li.mb-1
               i.lista-ul__vineta
               span
                 em Semana Santa.
-            li
+            li.mb-1
               i.lista-ul__vineta
               span
                 em Vacaciones escolares de mitad de año.
-            li
+            li.mb-1  
               i.lista-ul__vineta
               span
                 em Semana de receso.
-            li
+            li.mb-1
               i.lista-ul__vineta
               span
                 em Vacaciones escolares de fin de año.
-            li
+            li.mb-1
               i.lista-ul__vineta
               span
                 em Fines de semana con días festivos.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span En consecuencia, la baja temporada, serían los períodos opuestos. Este ejemplo es aplicable solo a destinos con vocación puramente turística.
 

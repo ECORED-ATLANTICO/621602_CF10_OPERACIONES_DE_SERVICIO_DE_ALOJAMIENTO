@@ -97,25 +97,25 @@
         p.mb-3 <em>The following are some basic recommendations for the effective management of these situations that may arise on a day-to-day basis:</em>
 
 
-        .bg-color-5.p-4.br-15.mb-3(data-aos="fade-right")
+        .bg-color-5.p-4.br-15.mb-0(data-aos="fade-right")
           ul.lista-ul.mb-0
-            li
+            li.mb-3
               i.lista-ul__vineta
               span <em>Take the initiative to serve prospects and customers. In customer service, it is relevant to have a genuine desire to serve and help with the highest possible quality.</em>
-            li
+            li.mb-3
               i.lista-ul__vineta
               span <em>Understand the customer for what he is: a human being, who has desires, expectations, and aspirations. Hotels should aim to get to know them and, as far as possible, anticipate them.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Listen actively. Whatever the situation, what the customer values most is to be heard and to perceive that you are really interested in what he/she is saying and that you understand him/her.</em>
 
 
       .col-lg-2.col-md-4.mb-4.mb-lg-0.order-1.order-lg-2.d-none.d-lg-block
         figure
-          img(src="@/assets/curso/tema6/img09.png", alt="").img-fluid.mx-auto
+          img(src="@/assets/curso/tema6/img09.png", alt="", width="").img-fluid.mx-auto
 
       .col-lg-5.col-md-12.order-3.order-lg-3
-        .bg-color-5.p-4.br-15.mb-3(data-aos="fade-left")
+        .bg-color-5.p-4.br-15.mb-0(data-aos="fade-left")
           ul.lista-ul.mb-0
             li.mb-3
               i.lista-ul__vineta
@@ -129,7 +129,7 @@
               i.lista-ul__vineta
               span
                 em Try to be decisive. The client will be able to perceive that you want to help him/her.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span
                 em Follow these simple steps and you will surely get ahead in any situation that may arise.
@@ -151,7 +151,7 @@
           img(src="@/assets/curso/tema6/img10.png", data-aos="zoom-in").mx-auto
 
       .col-lg-10.order-2.order-lg-2
-        .bg-fondo-3.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-4
+        .bg-fondo-9.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-4
           ul.lista-ul.mb-0
             li.mb-3
               i.lista-ul__vineta
@@ -209,20 +209,22 @@
 
     
     .row.align-items-center.mb-5
-      .col-lg-5
-        .bg-color-22.p-4.br-15
-          p.mb-3.text-bold Ejemplos:
+      .col-lg-5.mb-4.mb-lg-0
+        .bg-color-22.p-4.br-15.mb-0
+          p.mb-2.text-bold Ejemplos:
           ul.lista-ul.mb-0
-            li
+            li.mb-1
               i.lista-ul__vineta
               em Sea amable.
-            li
+            li.mb-1
               i.lista-ul__vineta
               em Mire a las personas cuando converse con ellas.
-            li
+            li.mb-0
               i.lista-ul__vineta
               em No interrumpa a las personas que están ocupadas.
-
+      .col-lg-7
+        figure
+          img(src="@/assets/curso/tema6/img25.png", alt="").img-fluid.mx-auto
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
@@ -296,13 +298,13 @@
                 td <em>This in the beginning</em>
 
 
-    .titulo-con-imagen_2.mb-4(data-aos="fade-right")
+    .titulo-con-imagen_2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
         h3.titulo-con-imagen__texto_2 <em>Exhortative imperative</em> / Exhortación imperativa
         
 
     .container
-      .row.justify-content-center.align-items-center.mb-5.bg-color-5(data-aos="fade-right")
+      .row.justify-content-center.align-items-center.mb-5.bg-color-23(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-1
           p.mb-3 <em>The exhortative way is used to make suggestions: Let’s (Let + us) + verb. It is used in the first-person plural only, especially when you are trying to encourage someone to do something with you, including both the speaker and the hearer, so the subject that is inferred is represented by the plural “we”.</em>
           p.mb-0 La forma exhortativa se utiliza para hacer sugerencias: Let’s (Let + us) + verbo. Se utiliza solo en primera persona del plural, especialmente cuando se trata de animar a alguien a hacer algo con usted, incluyendo tanto el hablante como el oyente, por lo que la persona que se infiere está representada por el plural “nosotros”.
@@ -411,7 +413,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-6.mb-4.mb-lg-0.col-md-12
-        .bg-color-24.p-4.br-15.h-100
+        .bg-color-23.p-4.br-15.h-100
           p.mb-2 Entre sus funciones también están:
           ul.lista-ul.mb-0
             li
@@ -489,31 +491,31 @@
       .col-lg-9.order-2.order-lg-2
         p.mb-2(data-aos="fade-right") <em>Imperatives are common in texts that tell people what to do and what not to do. They appear:</em>
         ul.lista-ul.mb-3
-          li
+          li.mb-1
             i.lista-ul__vineta
             span <em>On public signs and advertisements.</em>
-          li
+          li.mb-1
             i.lista-ul__vineta
             span <em>On forms and websites.</em>
-          li
+          li.mb-1
             i.lista-ul__vineta
             span <em>In texts with instructions (like manuals, recipes and labels).</em>
-          li
+          li.mb-0
             i.lista-ul__vineta
             span <em>In texts with advices (e.g., magazine articles, leaflets).</em>
 
         p.mb-2 Los imperativos son comunes en los textos que le dicen a las personas qué hacer y qué no hacer. Ellos aparecen:
         ul.lista-ul.mb-0
-          li
+          li.mb-1
             i.lista-ul__vineta
             | En carteles y anuncios públicos.
-          li
+          li.mb-1
             i.lista-ul__vineta
             | En formularios y sitios web.
-          li
+          li.mb-1
             i.lista-ul__vineta
             | En textos con instrucciones (como manuales, recetas y etiquetas).
-          li
+          li.mb-0
             i.lista-ul__vineta
             | En textos con consejos (por ejemplo, artículos de revistas, folletos).
 

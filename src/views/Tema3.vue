@@ -236,7 +236,7 @@
           .col-lg-3.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/tema3/img11.png', alt="").mx-auto
           .col-lg-9.col-md-12
-            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12").p-4
               .tarjeta.bg-white.p-3.h-100
                 img.mb-3(src='@/assets/curso/tema3/img12.svg' alt="", style="width: 150px; height: 150px;").mx-auto
                 h5.text-center.mb-2 <em>Single bed</em>
@@ -344,9 +344,9 @@
           h3.titulo-con-imagen__texto <em>Payment forms</em> / Formas de pago
 
     .row.align-items-center.mb-5
-      .col-lg-auto.d-none.d-lg-flex
-        img(src="@/assets/curso/tema3/img25.svg").mx-auto
-      .col-lg
+      .col-lg-2.d-none.d-lg-flex
+        img(src="@/assets/curso/tema3/img25.png").mx-auto
+      .col-lg-10.col-md-12
         p.mb-3 <em>Whenever you close an account and issue an invoice, you must receive a payment. In this section, you will study the payment forms legally accepted and guaranteed by the Colombian state and the accommodation establishment.</em>
         p.mb-0 Siempre que se va a cerrar una cuenta y a expedir una factura, se debe recibir un pago. En este apartado, se estudiarán las formas de pago legalmente aceptadas y avaladas por el Estado colombiano y el establecimiento de alojamiento.
 

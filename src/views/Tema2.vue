@@ -33,7 +33,7 @@
         p.mb-2(data-aos="fade-right") <em>It will be common in your job as a receptionist to address guests by their names, especially in telephone communication where you will not have eye contact. Spelling names and surnames will be another of the key skills for your work.</em>
         p.mb-4(data-aos="fade-right") <em>Remember that when spelling in English it is better if you use the International Phonetic Alphabet, which is the communication standard used for phonetic transcription.</em>
 
-        .bg-fondo-3.px-lg-4.py-lg-4.px-4.py-3.br-15.mb-0
+        .bg-fondo-9.px-lg-4.py-lg-4.px-4.py-3.br-15.mb-0
           .row.align-items-center
             .col-lg-auto.d-none.d-lg-flex
               img(src="@/assets/curso/tema2/img03.svg", alt="").img-fluid.mx-auto
@@ -222,33 +222,33 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
-        p.mb-3 <em>As with any commercial agreement, the reservation is governed by certain conditions. These change according to the policy established by the hotel.</em>
-        p.mb-3 <em>The most relevant conditions or characteristics that the reservation must have are:</em>
+        p.mb-2 <em>As with any commercial agreement, the reservation is governed by certain conditions. These change according to the policy established by the hotel.</em>
+        p.mb-2 <em>The most relevant conditions or characteristics that the reservation must have are:</em>
 
         .bg-color-5.p-4.br-15.mb-3(data-aos="fade-right")
           ul.lista-ul.mb-0
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Arrival date</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Departure date</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Confirmed rate</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Rate inclusions and non-inclusions</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Nature of the reservation (flexible, non-refundable)</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>If advance payment is required and the maximum date to make it</em>
-            li
+            li.mb-1
               i.lista-ul__vineta
               span <em>Cancellation Policy</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Acceptance</em>
 
@@ -260,33 +260,33 @@
           img(src="@/assets/curso/tema2/img15.png", alt="").img-fluid.mx-auto
 
       .col-lg-5.col-md-12.order-3.order-lg-3
-        p.mb-3 Como cualquier acuerdo comercial, la reserva se rige por algunas condiciones. Estas cambian de acuerdo con la política establecida por el hotel.
+        p.mb-2 Como cualquier acuerdo comercial, la reserva se rige por algunas condiciones. Estas cambian de acuerdo con la política establecida por el hotel.
         p.mb-3 Las condiciones o características más relevantes que debe tener la reserva son:
 
         .bg-color-23.p-4.br-15.mb-3(data-aos="fade-left")
           ul.lista-ul.mb-0
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Fecha de llegada
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Fecha de salida
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Tarifa confirmada
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Inclusiones y no inclusiones de la tarifa
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Carácter de la reserva (flexible, no reembolsable)
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Si se requiere pago anticipado y la fecha máxima para realizarlo
-            li
+            li.mb-1
               i.lista-ul__vineta
               span Política de cancelación
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Aceptación
 
@@ -346,68 +346,68 @@
           figure
             img(src="@/assets/curso/tema2/img19.png", alt="alt").img250
         
-        .crd.crd--avatarHorizontal.crd--first.py-4
+        .crd.crd--avatarHorizontal.crd--first.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img28.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Fee and cancellation policies</em> /</b> Tarifas y políticas de cancelación.
         
-        .crd.crd--avatarHorizontal.py-4
+        .crd.crd--avatarHorizontal.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure  
                 img(src="@/assets/curso/tema2/img29.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Invoice settlement</em> /</b> Liquidación de facturas.
         
-        .crd.crd--avatarHorizontal.py-4.crd--three
+        .crd.crd--avatarHorizontal.py-2.crd--three
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img30.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Baggage Handling Policy</em> /</b> Política de manejo de equipaje.
         
-        .crd.crd--avatarHorizontal.py-4
+        .crd.crd--avatarHorizontal.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img31.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Check-in and Check-Out policy</em> /</b> Política de check-in y check-out.
         
-        .crd.crd--avatarHorizontal.crd--four.py-4
+        .crd.crd--avatarHorizontal.crd--four.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img32.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Guest belongings and forgotten objects</em> /</b> Pertenencias de huéspedes y objetos olvidados.
         
-        .crd.crd--avatarHorizontal.py-4
+        .crd.crd--avatarHorizontal.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img33.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Pets</em> /</b> Mascotas.
         
-        .crd.crd--avatarHorizontal.crd--four.py-4
+        .crd.crd--avatarHorizontal.crd--four.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img34.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Hazardous goods</em> /</b> Mercancías peligrosas.
         
-        .crd.crd--avatarHorizontal.crd--fin.py-4
+        .crd.crd--avatarHorizontal.crd--fin.py-2
           .row.align-items-center.mb-0
             .col-auto
               figure
                 img(src="@/assets/curso/tema2/img35.svg", alt="alt").img100
-            .col-lg-10.col
+            .col-lg-9.col
               p.mb-0 <b><em>Property damage</em> /</b> Daños a la propiedad.
 
 

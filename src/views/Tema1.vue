@@ -106,39 +106,39 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
         .bg-color-5.p-4.br-15.mb-0(data-aos="fade-right")
-          h5.mb-3 <em>Many elements influence the rate setup:</em>
-          ul.lista-ul
-            li
+          h5.mb-2 <em>Many elements influence the rate setup:</em>
+          ul.lista-ul.mb-0
+            li.mb-0
               i.lista-ul__vineta
               span <em>Hotel category.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Type of hotel.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Season.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Day of the week.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Stay Length.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Hotel location.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Location within the hotel.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Room type.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Meal plan.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Discounts.</em>
-            li
+            li.mb-0
               i.lista-ul__vineta
               span <em>Individual or group client.</em>
 
@@ -148,39 +148,39 @@
 
       .col-lg-5.col-md-12.order-3.order-lg-3
         .bg-color-24.p-4.br-15.mb-0(data-aos="fade-left")
-          h5.mb-3 Muchos elementos influyen en la configuración de las tarifas:
-          ul.lista-ul
-            li
+          h5.mb-2 Muchos elementos influyen en la configuración de las tarifas:
+          ul.lista-ul.mb-0
+            li.mb-0
               i.lista-ul__vineta
               span Categoría del hotel.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Tipo de hotel.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Temporada.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Día de la semana.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Duración de la estancia.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Ubicación del hotel.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Ubicación dentro del hotel.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Tipo de habitación.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Plan de comidas.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Descuentos.
-            li
+            li.mb-0
               i.lista-ul__vineta
               span Cliente individual o grupal.
 
@@ -208,7 +208,7 @@
     p.mb-4(data-aos="fade-right") <em>Discounts are a way of promotion. Through this practice, among other things, the hotels can:</em>
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-lg-9.mb-4.mb-lg-0
+      .col-lg-9.order-2.order-lg-2
         .bg-fondo-3.px-lg-4.py-lg-3.px-4.py-3.br-15.mb-3
           ul.lista-ul
             li
@@ -245,7 +245,7 @@
                 .p-3
                   p.mb-0 <b><em>Discount plans: </em></b><em>here the discount promotes packaged products: Stay 3 nights x $300 and get all meals for free.</em>
 
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-8.order-1.order-lg-1.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/img21.png", data-aos="zoom-in").mx-auto
 
@@ -299,7 +299,7 @@
           .col-lg-3.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/tema1/img24.png', alt="").mx-auto
           .col-lg-9.col-md-12
-            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12").p-4
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
@@ -490,7 +490,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
-        p.mb-3 <em>The adjective when is used in the superlative form describes an object that is at the upper or lower end of a quality. Like the comparative, it is used in sentences in which a subject is compare to a group, according to the following structure:</em>
+        p.mb-3.mb-lg-4 <em>The adjective when is used in the superlative form describes an object that is at the upper or lower end of a quality. Like the comparative, it is used in sentences in which a subject is compare to a group, according to the following structure:</em>
 
         .bg-color-5.p-4.br-15.mb-0(data-aos="fade-right")
           p.mb-3 <em>Noun (subject) + verb + the + adjective in superlative degree + noun (object).</em>
@@ -504,7 +504,7 @@
           img(src="@/assets/curso/tema1/img31.png", alt="").img-fluid.mx-auto
 
       .col-lg-5.col-md-12.order-3.order-lg-3
-        p.mb-3 Cuando un adjetivo se utiliza en forma superlativa, describe un objeto que se encuentra en el extremo superior o inferior de una cualidad. Al igual que el comparativo, se utiliza en oraciones en las que comparamos un sujeto con un grupo, de acuerdo con la siguiente estructura:
+        p.mb-3.mb-lg-4 Cuando un adjetivo se utiliza en forma superlativa, describe un objeto que se encuentra en el extremo superior o inferior de una cualidad. Al igual que el comparativo, se utiliza en oraciones en las que comparamos un sujeto con un grupo, de acuerdo con la siguiente estructura:
 
         .bg-color-24.p-4.br-15.mb-0(data-aos="fade-left")
           p.mb-3 Sustantivo (sujeto) + verbo + el (la) + adjetivo en grado superlativo + sustantivo (objeto).
@@ -622,11 +622,11 @@
       
       .col-lg-5.mb-4.mb-lg-0
         .row
-          .col-12.col-lg-12.d-none.d-lg-block.mb-3
+          .col-12.col-lg-12.d-none.d-lg-block.mb-2
             figure
-              img(src="@/assets/curso/tema1/img35.svg", alt="", style="max-width: 90px;").img-fluid
+              img(src="@/assets/curso/tema1/img35.svg", alt="", style="max-width: 80px;").img-fluid
           .col-lg.col-md-12
-            p.mb-3 Representan la cantidad de elementos de un conjunto. Esta cantidad puede ser finita o infinita. Son los números empleados en el día a día para contar y hacer operaciones matemáticas.
+            p.mb-2 Representan la cantidad de elementos de un conjunto. Esta cantidad puede ser finita o infinita. Son los números empleados en el día a día para contar y hacer operaciones matemáticas.
             p.mb-0 En general, los números cardinales son una generalidad del número natural, permitiendo comparar la cantidad de elementos de conjuntos.
 
     .row.justify-content-center.mb-5
@@ -640,7 +640,7 @@
                 p.mb-0 <em>You are invited to review the following video to supplement the information.</em>
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/los_numeros_cardinales.pdf')" target="_blank")
-                  span <em>Download</em>
+                  span <em>Descargar</em>
                   i.fas.fa-file-download
 
     .row.justify-content-center.align-items-center.mb-5
