@@ -215,7 +215,7 @@
           .tarjeta.bg-fondo-7.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
-                img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
+                img(src='@/assets/curso/tema1/img12.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>Continental plan</em>
             p.mb-2.text-center <em>Includes room rate plus continental breakfast.</em>
             h5.text-center Plan continental
@@ -224,25 +224,20 @@
           .tarjeta.bg-fondo-7.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
-                img(src='@/assets/curso/tema1/img14.svg' alt="", style="width: 90px;").mx-auto
+                img(src='@/assets/curso/tema1/img13.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>American plan</em>
             p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+
+            p.text-center.mb-2 <em>Modified American Plan (PAM): It includes the room and two meals a day, usually breakfast and one of the meals (lunch or dinner).</em>
+
             h5.text-center Plan Americano
             p.mb-0.text-center Incluye la habitación y tres alimentos.
+            p.mb-0.text-center Plan Americano Modificado (PAM): Incluye la habitación y dos alimentos diarios, generalmente el desayuno y una de las comidas (almuerzo o cena).
 
           .tarjeta.bg-fondo-7.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
-                img(src='@/assets/curso/tema1/img13.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Modified American Plan (PAM)</em>
-            p.mb-2.text-center <em>It includes the room and two meals a day, usually breakfast and one of the meals (lunch or dinner).</em>
-            h5.text-center Plan Americano Modificado (PAM)
-            p.mb-0.text-center Incluye la habitación y dos alimentos diarios, generalmente el desayuno y una de las comidas (almuerzo o cena).
-
-          .tarjeta.bg-fondo-7.p-4.h-100
-            .row.justify-content-center.mb-3
-              .col-8  
-                img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
+                img(src='@/assets/curso/tema1/img14.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>All Inclusive</em>
             p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
             h5.text-center Plan todo incluido
@@ -251,7 +246,7 @@
           .tarjeta.bg-fondo-7.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
-                img(src='@/assets/curso/tema1/img12.svg' alt="", style="width: 90px;").mx-auto
+                img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>Bed & breakfast</em>
             p.mb-2.text-center <em>Includes room rate plus Full breakfast.</em>
             h5.text-center <em>Bed & Breakfast</em>
