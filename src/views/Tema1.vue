@@ -199,6 +199,64 @@
 
     p.mb-5 <em>There are different types of plans</em> / Existen diferentes tipos de planes
 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        SlyderF(columnas="col-lg-6 col-xl-4 col-md-6 col-sm-12")
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img11.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>European plan</em>
+            p.mb-2.text-center <em>Includes room rate without any food.</em>
+            h5.text-center Plan europeo
+            p.mb-0.text-center Incluye la tarifa de habitación sin ningún alimento.
+
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>Continental plan</em>
+            p.mb-2.text-center <em>Includes room rate plus continental breakfast.</em>
+            h5.text-center Plan continental
+            p.mb-0.text-center Incluye habitación y un desayuno continental.
+
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img14.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>American plan</em>
+            p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            h5.text-center Plan Americano
+            p.mb-0.text-center Incluye la habitación y tres alimentos.
+
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img13.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>Modified American Plan (PAM)</em>
+            p.mb-2.text-center <em>It includes the room and two meals a day, usually breakfast and one of the meals (lunch or dinner).</em>
+            h5.text-center Plan Americano Modificado (PAM)
+            p.mb-0.text-center Incluye la habitación y dos alimentos diarios, generalmente el desayuno y una de las comidas (almuerzo o cena).
+
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>All Inclusive</em>
+            p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            h5.text-center Plan todo incluido
+            p.mb-0.text-center Incluye tarifa de habitación, desayuno, almuerzo y comida, y actividades programadas.
+
+          .tarjeta.bg-fondo-7.p-4.h-100
+            .row.justify-content-center.mb-3
+              .col-8  
+                img(src='@/assets/curso/tema1/img12.svg' alt="", style="width: 90px;").mx-auto
+            h5.text-center.mb-2 <em>Bed & breakfast</em>
+            p.mb-2.text-center <em>Includes room rate plus Full breakfast.</em>
+            h5.text-center <em>Bed & Breakfast</em>
+            p.mb-0.text-center Incluye Cama y Desayuno. Ofrecen habitación con desayuno completo.
+
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
@@ -299,7 +357,7 @@
           .col-lg-3.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/tema1/img24.png', alt="").mx-auto
           .col-lg-9.col-md-12
-            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12").p-4
+            SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12").p-0.p-lg-4
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
@@ -364,16 +422,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bg-color-1.p-4.br-15
-          .row
-            .col-lg-auto.d-none.d-lg-block
+          .row.justify-content-center
+            .col-lg-auto.d-none.d-lg-block.mb-4.mb-lg-4.mb-xl-0
               figure
                 img(src="@/assets/curso/tema1/img30.svg", alt="").img-fluid.mx-auto
-            .col-lg-10.col-md-12
+            .col-lg-12.col-md-12.col-xl-10
               p.mb-3 <em>The following video series is available to enrich the learning experience and provide additional perspectives on the topics addressed. The videos complement the information presented and support a deeper understanding of the content.</em>
               p.mb-3 La siguiente serie de videos está disponible para enriquecer la experiencia de aprendizaje y aportar perspectivas complementarias sobre los temas abordados. Los videos complementan la información presentada y favorecen una comprensión más profunda de los contenidos.
 
               .row.mt-4
-                .col-md-6
+                .col-md-6.mb-3.mb-lg-0(style="justify-items: center;")
                   .row.align-items-center.mb-3
                     .col-auto
                       p.mb-0.text-bold Lección 1:
@@ -390,7 +448,7 @@
                         span Ver video
                         i.fas.fa-file-download
 
-                  .row.align-items-center.mb-3
+                  .row.align-items-center.mb-0
                     .col-auto
                       p.mb-0.text-bold Lección 3:
                     .col
@@ -398,7 +456,7 @@
                         span Ver video
                         i.fas.fa-file-download
 
-                .col-md-6
+                .col-md-6(style="justify-items: center;")
                   .row.align-items-center.mb-3
                     .col-auto
                       p.mb-0.text-bold Lección 4:
@@ -516,16 +574,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bg-color-1.p-4.br-15
-          .row
-            .col-lg-auto.d-none.d-lg-block
+          .row.justify-content-center
+            .col-lg-auto.d-none.d-lg-block.mb-4.mb-lg-3.mb-xl-0
               figure
                 img(src="@/assets/curso/tema1/img30.svg", alt="").img-fluid.mx-auto
-            .col-lg-10.col-md-12
+            .col-lg-12.col-md-12.col-xl-10
               p.mb-3 <em>The following video series complements the information presented in this learning experience and provides additional insights into the topics addressed.</em>
               p.mb-3 La siguiente serie de videos complementa la información presentada en esta experiencia de aprendizaje y aporta elementos adicionales para profundizar en los temas abordados.
 
               .row.mt-4
-                .col-md-6
+                .col-md-6(style="justify-items: center;")
                   .row.align-items-center.mb-3
                     .col-auto
                       p.mb-0.text-bold Lección 1:
@@ -558,7 +616,7 @@
                         span Ver video
                         i.fas.fa-file-download
 
-                .col-md-6
+                .col-md-6(style="justify-items: center;")
                   .row.align-items-center.mb-3
                     .col-auto
                       p.mb-0.text-bold Lección 5:
