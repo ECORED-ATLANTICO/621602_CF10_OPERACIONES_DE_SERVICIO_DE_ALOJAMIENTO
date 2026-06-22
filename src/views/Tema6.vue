@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 <em>Service situations and instructions</em> / Atención de situaciones especiales e instrucciones
+      h1 <em>Service situations and instructions</em> // Atención de situaciones especiales e instrucciones
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-6.order-1.order-lg-1
@@ -23,7 +23,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Special requirements and difficult situations</em> / Requerimientos especiales y situaciones difíciles
+          h3.titulo-con-imagen__texto <em>Special requirements and difficult situations</em> // Requerimientos especiales y situaciones difíciles
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -175,7 +175,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Imperatives for basic instructions</em> / Imperativos para instrucciones básicas
+        h3.titulo-con-imagen__texto_2 <em>Imperatives for basic instructions</em> // Imperativos para instrucciones básicas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.col-md-12.mb-4.mb-lg-0
@@ -228,7 +228,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Affirmative imperative</em> / Imperativo afirmativo
+        h3.titulo-con-imagen__texto_2 <em>Affirmative imperative</em> // Imperativo afirmativo
 
 
     .row.align-items-center.mb-5
@@ -244,7 +244,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 5.
-          span <em>Affirmative imperative</em> / Imperativo afirmativo
+          span <em>Affirmative imperative</em> // Imperativo afirmativo
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
@@ -263,7 +263,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Negative imperative</em> / Imperativo negativo
+        h3.titulo-con-imagen__texto_2 <em>Negative imperative</em> // Imperativo negativo
 
     .row.align-items-center.mb-5
       .col-lg-4.col-md-12.mb-4.mb-lg-0
@@ -278,7 +278,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 6.
-          span <em>Negative imperative</em> / Imperativo negativo
+          span <em>Negative imperative</em> // Imperativo negativo
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
@@ -300,7 +300,7 @@
 
     .titulo-con-imagen_2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Exhortative imperative</em> / Exhortación imperativa
+        h3.titulo-con-imagen__texto_2 <em>Exhortative imperative</em> // Exhortación imperativa
         
 
     .container
@@ -317,7 +317,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 7.
-          span <em>Exhortative imperative</em> / Exhortación imperativa
+          span <em>Exhortative imperative</em> // Exhortación imperativa
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>

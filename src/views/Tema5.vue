@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 <em>Schedules and describing places</em> / Horarios y descripción de espacios
+      h1 <em>Schedules and describing places</em> // Horarios y descripción de espacios
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-6.order-1.order-lg-1
@@ -22,7 +22,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Hours and schedules</em> / Horas y horarios
+        h3.titulo-con-imagen__texto_2 <em>Hours and schedules</em> // Horas y horarios
 
     p.mb-3 <em>Expressing the hours in English is essential. Knowing how to say the time is not only useful to answer the possible question “What time is it?” made by a guest, but it will also help you inform about schedules of events, attractions, services, and transportation (trains, planes, buses).</em>
     p.mb-4 Expresar las horas en inglés es fundamental. Saber cómo decir la hora no es solo útil para responder a la eventual pregunta “¿Qué hora es?” hecha por un huésped, sino que además le ayudará a informar acerca de horarios de eventos, atracciones, servicios y medios de transporte (trenes, aviones, buses).
@@ -31,7 +31,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Descriptive adjectives (places)</em> / Adjetivos descriptivos (lugares)
+        h3.titulo-con-imagen__texto_2 <em>Descriptive adjectives (places)</em> // Adjetivos descriptivos (lugares)
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -49,7 +49,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 4.
-          span <em>Descriptive adjectives (places)</em> / Adjetivos descriptivos (lugares)
+          span <em>Descriptive adjectives (places)</em> // Adjetivos descriptivos (lugares)
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
