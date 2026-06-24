@@ -212,7 +212,7 @@
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
                   span Consultar video
-                  i.fas.fa-play-circle
+                  i.fab.fa-youtube
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")

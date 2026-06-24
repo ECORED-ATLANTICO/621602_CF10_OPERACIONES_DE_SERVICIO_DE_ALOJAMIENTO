@@ -48,7 +48,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Net or floor rate</em> // Tarifa neta o de piso
-              p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks and marketing platforms, on which they can generate their profit or mark-up.</em>
+              p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks and <em>marketing</em> platforms, on which they can generate their profit or mark-up.</em>
               p.mb-0 Esta es la tarifa que se asigna a intermediarios como agencias de viaje, bancos de camas y plataformas de <em>marketing</em>, sobre la cual ellos pueden generar su utilidad o sobreprecio.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img05.png", alt="").img-fluid.mx-auto
@@ -433,7 +433,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=oBytkylSufw&t=169s" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -441,7 +441,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=eA46BhGhp9Q" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-0
                     .col-auto
@@ -449,7 +449,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YWLCZU5Jsbc" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                 .col-md-6(style="justify-items: center;")
                   .row.align-items-center.mb-3
@@ -458,7 +458,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=pL9GTpg9UDo&t=4s" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -466,7 +466,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7lmjKN6Sh4s" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -474,7 +474,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TEHj5a1n_Z8" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
               
   
 
@@ -585,7 +585,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WALXkZx78GQ&t=36s" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -593,7 +593,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=a-GEGiqDnKY" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -601,7 +601,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=5xjSUPczYEY" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -609,7 +609,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=enOQ_V5H5sU" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                 .col-md-6(style="justify-items: center;")
                   .row.align-items-center.mb-3
@@ -618,7 +618,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=fJnnhyDM6f4" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -626,7 +626,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HCyYePYxy0I" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
                     .col-auto
@@ -634,7 +634,7 @@
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=2fqHjsDiqyk" target="_blank")
                         span Consultar video
-                        i.fas.fa-file-download
+                        i.fab.fa-youtube
               
               
     .container
@@ -725,7 +725,7 @@
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
                   span Consultar video
-                  i.fas.fa-play-circle
+                  i.fab.fa-youtube
 
 
 </template>
