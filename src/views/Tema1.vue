@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 <em>Rates and customer transactions</em> // Tarifas y transacciones con clientes
+      h1 <em>Rates and customer transactions</em> / Tarifas y transacciones con clientes
   
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-5(data-aos="fade-right")
@@ -19,7 +19,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Rates</em> // Tarifas
+          h3.titulo-con-imagen__texto <em>Rates</em> / Tarifas
 
 
 
@@ -39,7 +39,7 @@
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Rack rate</em> // Tarifa rack
+              h4.mb-3 <em>Rack rate</em> / Tarifa <em>rack</em>
               p.mb-2 <em>It is the official rate charged by the hotel, to which no discount applies. It serves as a reference for rate management.</em>
               p.mb-0 Es la tarifa oficial que cobra el hotel, a la cual no se aplica ningún descuento. Sirve de referencia para el manejo de tarifas.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -47,7 +47,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Net or floor rate</em> // Tarifa neta o de piso
+              h4.mb-3 <em>Net or floor rate</em> / Tarifa neta o de piso
               p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks and <em>marketing</em> platforms, on which they can generate their profit or mark-up.</em>
               p.mb-0 Esta es la tarifa que se asigna a intermediarios como agencias de viaje, bancos de camas y plataformas de <em>marketing</em>, sobre la cual ellos pueden generar su utilidad o sobreprecio.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -55,7 +55,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Confirmed rate</em> // Tarifa confirmada
+              h4.mb-3 <em>Confirmed rate</em> / Tarifa confirmada
               p.mb-2 <em>It is the rate that was informed to the client at the time of booking. If when the guest arrives there is not available room according to the confirmed rate, another one of better category is usually given for the same price, which means doing an upgrade.</em>
               p.mb-0 Es la tarifa que se le informó al cliente al momento de la reserva. Si al llegar el huésped no hay disponible una habitación acorde con la tarifa confirmada, se suele dar otra de mejor categoría por el mismo precio, lo que significa hacer una mejora.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -63,15 +63,15 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Negotiated rate</em> // Tarifa negociada
+              h4.mb-3 <em>Negotiated rate</em> / Tarifa negociada
               p.mb-2 <em>This one has a discount on the rack rate and some conditions on its granting. It usually occurs only in negotiations with companies, agencies, associations, among others, based on a minimum production of nights per month.</em>
-              p.mb-0 Esta tiene un descuento sobre la tarifa rack y unas condiciones en su otorgamiento. Por lo general, se da solo en negociaciones con empresas, agencias, asociaciones, entre otras, con base en una producción mínima de noches por mes.
+              p.mb-0 Esta tiene un descuento sobre la tarifa <em>rack</em> y unas condiciones en su otorgamiento. Por lo general, se da solo en negociaciones con empresas, agencias, asociaciones, entre otras, con base en una producción mínima de noches por mes.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img07.png", alt="").img-fluid.mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Complementary</em> // Tarifa complementaria
+              h4.mb-3 <em>Complementary</em> / Tarifa complementaria
               p.mb-2 <em>They are the rates granted to certain entities or people who represent some interest for the hotel. For example: other hotels, associations, conglomerates with defined conditions, hotel employees, friends and family, etc.</em>
               p.mb-0 Son las tarifas que se otorgan a determinadas entidades o personas que representan algún interés para el hotel. Por ejemplo: otros hoteles, asociaciones, conglomerados con condiciones delimitadas, empleados del hotel, amigos y familiares, etc.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -81,23 +81,23 @@
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         TabsA.color-acento-botones()
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Promotional rates</em> // Tarifas promocionales")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Promotional rates</em> / Tarifas promocionales")
             p.mb-3 <em>They are discounts which are applied for hotel promotion purposes, following some policies and restrictions. Example: non-refundable rates, children under 12 do not pay, pay 3 nights and stay 4.</em>
             p.mb-0 Son los descuentos que se aplican para fines de promoción del hotel, siguiendo unas políticas y restricciones. Ejemplo: tarifas no reembolsables, menores de 12 años no pagan, pague 3 noches y hospédese 4.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>BAR Rate</em> // Tarifa BAR")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>BAR Rate</em> / Tarifa BAR")
             p.mb-3 <em>With the increase in distribution channels, there was a time when the hotelier lost control over his price. It was common to see clients arriving at the hotel who had found, through an intermediary, a lower rate than the one offered directly by the hotel. To solve this problem, strengthen direct sales, and increase rate transparency, hoteliers began to publish the BAR (Best Available Rate) on their websites. The Best Available Rate guarantees that a lower rate will not be found in any distribution channel. The management of this type of rate is not only about price, but also about the value of the rate.</em>
-            p.mb-0 Con el aumento de los canales de distribución, hubo un momento en que el hotelero perdió el control sobre su precio. Era usual que llegaran clientes al hotel que habían encontrado, a través de un intermediario, una tarifa inferior que la ofrecida directamente por el hotel. Para dar solución a esta problemática, fortalecer la venta directa y aumentar la transparencia de las tarifas, los hoteleros comenzaron a publicar en sus webs la BAR (Best Available Rate, en inglés). La mejor tarifa disponible garantiza que no se va a encontrar una tarifa inferior en ningún canal de distribución. El manejo de este tipo de tarifas no tiene que ver solo con precio, sino con el valor de la tarifa.
+            p.mb-0 Con el aumento de los canales de distribución, hubo un momento en que el hotelero perdió el control sobre su precio. Era usual que llegaran clientes al hotel que habían encontrado, a través de un intermediario, una tarifa inferior que la ofrecida directamente por el hotel. Para dar solución a esta problemática, fortalecer la venta directa y aumentar la transparencia de las tarifas, los hoteleros comenzaron a publicar en sus webs la BAR (<em>Best Available Rate</em>, en inglés). La mejor tarifa disponible garantiza que no se va a encontrar una tarifa inferior en ningún canal de distribución. El manejo de este tipo de tarifas no tiene que ver solo con precio, sino con el valor de la tarifa.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Group rates</em> // Tarifa grupo o evento")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Group rates</em> / Tarifa grupo o evento")
             p.mb-3 <em>These rates are created based on availability and market conditions at the time the quote is requested. And they apply to groups or special events, for example, fairs, concerts, congresses.</em>
             p.mb-0 Estas tarifas se crean con base en la disponibilidad y las condiciones de mercado del momento en que se pide la cotización. Y aplican para grupos o eventos especiales, por ejemplo, ferias, conciertos, congresos.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Long stay rate</em> // Tarifa larga estadía")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Long stay rate</em> / Tarifa larga estadía")
             p.mb-3 <em>It applies for a minimum number of nights a month. With some frequency, there are people who decide to live in hotels, due to the advantages that this provides them, and are classified as permanent guests.</em>
             p.mb-0 Aplica para un número mínimo de noches al mes. Con alguna frecuencia, hay personas que deciden vivir en hoteles, debido a las ventajas que ello les proporciona, y se catalogan como huéspedes permanentes.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Packages or plans</em> // Paquetes o planes")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Packages or plans</em> / Paquetes o planes")
             p.mb-3 <em>Packages are a way to market hotel products, to provide customers with more services, for more attractive prices. It can be packaged with own or third-party products. Example: wedding night plan, package with food and tour included.</em>
             p.mb-0 Los paquetes son una forma de comercializar productos hoteleros, para brindar a los clientes más servicios, por precios más atractivos. Se puede empaquetar con productos propios o de terceros. Ejemplo: plan noche de bodas, paquete con alimentación y excursiones incluidas.
 
@@ -191,13 +191,13 @@
           img(src="@/assets/curso/tema1/img09.png", data-aos="zoom-in").mx-auto
 
       .col-lg-9
-        h4.mb-3 <em>Meal plans</em> // Planes de alimentación
+        h4.mb-3 <em>Meal plans</em> / Planes de alimentación
         p.mb-3(data-aos="fade-right") <em>Hotels offer plans beside to the accommodation, with the purpose of promoting the second line of the hotel industry, which is the sale of food and beverage services.</em>
         p.mb-3(data-aos="fade-right") Los hoteles ofrecen planes junto al alojamiento con el propósito de promover el segundo renglón de la industria hotelera, que es la venta de servicios de alimentos y bebidas.
         p.mb-3(data-aos="fade-right") <em>Generally, hotels offer the client several plans that are determined by the basic price of the room and the most suitable food option for the client.</em>
         p.mb-0(data-aos="fade-right") Generalmente, los hoteles ponen a disposición del cliente varios planes, que están determinados por el precio básico de la habitación y la opción de alimentación más adecuada para el cliente.
 
-    p.mb-5 <em>There are different types of plans</em> // Existen diferentes tipos de planes
+    p.mb-5 <em>There are different types of plans</em> / Existen diferentes tipos de planes
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -256,7 +256,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Discounts</em> // Descuentos
+          h3.titulo-con-imagen__texto <em>Discounts</em> / Descuentos
     
     p.mb-4(data-aos="fade-right") <em>Discounts are a way of promotion. Through this practice, among other things, the hotels can:</em>
 
@@ -386,7 +386,7 @@
     .container
       .titulo-con-imagen_2.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo_2
-          h3.titulo-con-imagen__texto_2 <em>Comparatives</em> // Comparativos
+          h3.titulo-con-imagen__texto_2 <em>Comparatives</em> / Comparativos
 
     
     .row.mb-5.justify-content-center.align-items-center
@@ -395,7 +395,7 @@
         p.mb-3 <em>The grammatical structure to form the comparison is as follows:</em>
 
         .bg-color-5.p-4.br-15.mb-0(data-aos="fade-right")
-          p.mb-3 <em>Subject + verb + comparative adjective + than + object</em>
+          p.mb-3 <em>Subject + verb + comparative adjective + than + object.</em>
           p.mb-3 <em>Examples:</em>
           p.mb-0 <em>Pedro + is + faster + than + me.</em>
 
@@ -409,9 +409,9 @@
         p.mb-3 La estructura gramatical para formar la comparación es la siguiente:
 
         .bg-color-24.p-4.br-15.mb-0(data-aos="fade-left")
-          p.mb-3 Sujeto + verbo + adjetivo comparativo + <em>than</em> + objeto
+          p.mb-3 Sujeto + verbo + adjetivo comparativo + <em>than</em> + objeto.
           p.mb-3 Ejemplos:
-          p.mb-0 Pedro + es + más rápido +que + yo.
+          p.mb-0 Pedro + es + más rápido + que + yo.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -539,7 +539,7 @@
     .container
       .titulo-con-imagen_2.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo_2
-          h3.titulo-con-imagen__texto_2 <em>Superlatives</em> // Superlativos
+          h3.titulo-con-imagen__texto_2 <em>Superlatives</em> / Superlativos
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
@@ -640,7 +640,7 @@
     .container
       .titulo-con-imagen_2.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo_2
-          h3.titulo-con-imagen__texto_2 <em>Numbers</em> // Números
+          h3.titulo-con-imagen__texto_2 <em>Numbers</em> / Números
 
     .bloque-texto-g.bg-color-3.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -654,7 +654,7 @@
             
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.col-md-12.mb-4.mb-lg-0
-        h4.mb-3 <em>The ordinal numbers</em> // Los números ordinales
+        h4.mb-3 <em>The ordinal numbers</em> / Los números ordinales
         p.mb-3 <em>They are used to indicate order. That is, they point to the place of the indicated object within a series, to establish the position of the object in the middle of an ordered set of elements of the same class. Ordinals are generally used as adjectives before the noun.</em>
         p.mb-3 <em>Example:</em>
         p.mb-3 <em>Your room is on the fourth floor to the left of the elevator.</em>
@@ -669,7 +669,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-7.mb-4.mb-lg-0
         .bg-fondo-3.px-lg-5.py-lg-4.px-4.py-4.br-15
-          h4.mb-4 <em>The cardinal numbers</em> // Los números cardinales
+          h4.mb-4 <em>The cardinal numbers</em> / Los números cardinales
           p.mb-3 <em>They represent the amount of elements in a set. This quantity can be finite or infinite. They are the numbers used on a day-to-day basis to count and do mathematical operations.</em>
           p.mb-0 <em>In general, cardinal numbers are a generality of the natural number, allowing comparison of the number of elements of sets.</em>
       
@@ -698,7 +698,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.col-md-12.order-2.order-lg-2
-        h4.mb-3 <em>Expressing quantities in English</em> // Expresando cantidades en inglés
+        h4.mb-3 <em>Expressing quantities in English</em> / Expresando cantidades en inglés
         p.mb-0 <em>In customer service, hospitality, and administrative settings, you may need to express amounts when referring to bills, accounts, prices, or payments. The following examples illustrate how amounts can be expressed correctly in English.</em>
         p.mb-0 <em>Example:</em>
         p.mb-0 <em>Mr. Pedroza, your total account is $254.325 Colombian pesos (two hundred and fifty-four thousand three hundred and twenty-five Colombian pesos).</em>
@@ -721,7 +721,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Se invita a revisar el siguiente video para complementar la información
+                p.mb-0 Se invita a revisar el siguiente video para complementar la información.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
                   span Consultar video

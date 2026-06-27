@@ -33,10 +33,10 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>Promotional Rate</em>', esCorrecta: false },
-            { id: 'b', texto: '<em>Negotiated Rate</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>Rack Rate</em>', esCorrecta: true },
-            { id: 'd', texto: '<em>Group Rate</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>Promotional Rate.</em>', esCorrecta: false },
+            { id: 'b', texto: '<em>Negotiated Rate.</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Rack Rate.</em>', esCorrecta: true },
+            { id: 'd', texto: '<em>Group Rate.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Ha identificado adecuadamente el concepto evaluado.',
@@ -81,10 +81,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Clima', esCorrecta: false },
-            { id: 'b', texto: 'Nombre y fechas de estadía', esCorrecta: true },
-            { id: 'c', texto: 'Menú', esCorrecta: false },
-            { id: 'd', texto: 'Atractivos turísticos', esCorrecta: false },
+            { id: 'a', texto: 'Clima.', esCorrecta: false },
+            { id: 'b', texto: 'Nombre y fechas de estadía.', esCorrecta: true },
+            { id: 'c', texto: 'Menú.', esCorrecta: false },
+            { id: 'd', texto: 'Atractivos turísticos.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Los datos básicos de una reserva incluyen identificación y fechas de alojamiento.',
@@ -97,14 +97,14 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Calcular tarifas', esCorrecta: false },
+            { id: 'a', texto: 'Calcular tarifas.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Evitar errores en el registro',
+              texto: 'Evitar errores en el registro.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Gestionar pagos', esCorrecta: false },
-            { id: 'd', texto: 'Reducir atención', esCorrecta: false },
+            { id: 'c', texto: 'Gestionar pagos.', esCorrecta: false },
+            { id: 'd', texto: 'Reducir atención.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! El deletreo permite registrar correctamente la información del huésped.',
@@ -118,7 +118,7 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: '<em>Mrs.</em>', esCorrecta: false },
-            { id: 'b', texto: '<em>Miss</em>', esCorrecta: false },
+            { id: 'b', texto: '<em>Miss.</em>', esCorrecta: false },
             { id: 'c', texto: '<em>Mr.</em>', esCorrecta: true },
             { id: 'd', texto: '<em>Ms.</em>', esCorrecta: false },
           ],
@@ -133,10 +133,10 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Viaja por negocios', esCorrecta: true },
-            { id: 'b', texto: 'Viaja por ocio', esCorrecta: false },
-            { id: 'c', texto: 'Estudiante', esCorrecta: false },
-            { id: 'd', texto: 'Residente', esCorrecta: false },
+            { id: 'a', texto: 'Viaja por negocios.', esCorrecta: true },
+            { id: 'b', texto: 'Viaja por ocio.', esCorrecta: false },
+            { id: 'c', texto: 'Estudiante.', esCorrecta: false },
+            { id: 'd', texto: 'Residente.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Los huéspedes corporativos viajan generalmente por motivos laborales.',
@@ -149,10 +149,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>Twin</em>', esCorrecta: false },
-            { id: 'b', texto: '<em>Double</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>Single Room</em>', esCorrecta: true },
-            { id: 'd', texto: '<em>Family</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>Twin.</em>', esCorrecta: false },
+            { id: 'b', texto: '<em>Double.</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Single Room.</em>', esCorrecta: true },
+            { id: 'd', texto: '<em>Family.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! La <em>Single Room</em> está diseñada para alojar a una sola persona.',
@@ -165,13 +165,13 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Euro', esCorrecta: false },
-            { id: 'b', texto: '<em>USD</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>COP</em>', esCorrecta: true },
+            { id: 'a', texto: 'Euro.', esCorrecta: false },
+            { id: 'b', texto: 'USD.', esCorrecta: false },
+            { id: 'c', texto: 'COP.', esCorrecta: true },
             { id: 'd', texto: 'Libra', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El peso colombiano (<em>COP</em>) es la moneda oficial del país.',
+            '¡Correcto! El peso colombiano (COP) es la moneda oficial del país.',
           mensaje_incorrecto:
             'Repase las formas de pago y la moneda oficial utilizada en Colombia.',
         },
@@ -181,10 +181,10 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Nequi', esCorrecta: true },
-            { id: 'b', texto: '<em>Visa</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>Mastercard</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>Amex</em>', esCorrecta: false },
+            { id: 'a', texto: 'Nequi.', esCorrecta: true },
+            { id: 'b', texto: '<em>Visa.</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Mastercard.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>Amex.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Nequi es una de las billeteras digitales más utilizadas en Colombia.',
@@ -197,10 +197,10 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Pasarela de pago', esCorrecta: true },
-            { id: 'b', texto: 'Cheque', esCorrecta: false },
-            { id: 'c', texto: 'Efectivo', esCorrecta: false },
-            { id: 'd', texto: 'Vale', esCorrecta: false },
+            { id: 'a', texto: 'Pasarela de pago.', esCorrecta: true },
+            { id: 'b', texto: 'Cheque.', esCorrecta: false },
+            { id: 'c', texto: 'Efectivo.', esCorrecta: false },
+            { id: 'd', texto: 'Vale.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Las pasarelas de pago permiten transacciones mediante QR y enlaces.',
@@ -213,10 +213,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>July 15th, 2026</em>', esCorrecta: true },
-            { id: 'b', texto: '<em>15 Julys</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>Julys 15</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>2026 July</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>July 15th, 2026.</em>', esCorrecta: true },
+            { id: 'b', texto: '<em>15 Julys.</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Julys 15.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>2026 July.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Esa es una forma adecuada de expresar fechas en inglés.',
@@ -229,10 +229,10 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>Reservation</em>', esCorrecta: false },
-            { id: 'b', texto: '<em>Summer</em>', esCorrecta: true },
-            { id: 'c', texto: '<em>Lobby</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>Check-in</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>Reservation.</em>', esCorrecta: false },
+            { id: 'b', texto: '<em>Summer.</em>', esCorrecta: true },
+            { id: 'c', texto: '<em>Lobby.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>Check-in.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! <em>Summer</em> corresponde a una de las estaciones del año.',
@@ -245,14 +245,14 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>Check-in</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>Check-in.</em>', esCorrecta: false },
             {
               id: 'b',
-              texto: '<em>Two plus three equals five</em>',
+              texto: '<em>Two plus three equals five.</em>',
               esCorrecta: true,
             },
-            { id: 'c', texto: '<em>Double room</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>Credit card</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Double room.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>Credit card.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! La expresión representa una operación matemática básica en inglés.',
@@ -265,10 +265,10 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '8:30', esCorrecta: true },
-            { id: 'b', texto: '8:15', esCorrecta: false },
-            { id: 'c', texto: '7:30', esCorrecta: false },
-            { id: 'd', texto: '8:45', esCorrecta: false },
+            { id: 'a', texto: '8:30.', esCorrecta: true },
+            { id: 'b', texto: '8:15.', esCorrecta: false },
+            { id: 'c', texto: '7:30.', esCorrecta: false },
+            { id: 'd', texto: '8:45.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! <em>Half past eight</em> equivale a las 8:30.',
@@ -281,10 +281,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>Peaceful</em>', esCorrecta: true },
-            { id: 'b', texto: '<em>Crowded</em>', esCorrecta: false },
-            { id: 'c', texto: '<em>Busy</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>Expensive</em>', esCorrecta: false },
+            { id: 'a', texto: '<em>Peaceful.</em>', esCorrecta: true },
+            { id: 'b', texto: '<em>Crowded.</em>', esCorrecta: false },
+            { id: 'c', texto: '<em>Busy.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>Expensive.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! <em>Peaceful</em> describe un lugar tranquilo y agradable.',
@@ -297,10 +297,10 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Ignorar', esCorrecta: false },
-            { id: 'b', texto: 'Escuchar y apoyar', esCorrecta: true },
-            { id: 'c', texto: 'Cancelar reserva', esCorrecta: false },
-            { id: 'd', texto: 'Remitir siempre', esCorrecta: false },
+            { id: 'a', texto: 'Ignorar.', esCorrecta: false },
+            { id: 'b', texto: 'Escuchar y apoyar.', esCorrecta: true },
+            { id: 'c', texto: 'Cancelar reserva.', esCorrecta: false },
+            { id: 'd', texto: 'Remitir siempre.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! La atención efectiva comienza escuchando las necesidades del huésped.',
@@ -315,12 +315,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '<em>The guest is arriving</em>',
+              texto: '<em>The guest is arriving.</em>',
               esCorrecta: false,
             },
-            { id: 'b', texto: '<em>Be friendly</em>', esCorrecta: true },
-            { id: 'c', texto: '<em>She works</em>', esCorrecta: false },
-            { id: 'd', texto: '<em>They have</em>', esCorrecta: false },
+            { id: 'b', texto: '<em>Be friendly.</em>', esCorrecta: true },
+            { id: 'c', texto: '<em>She works.</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>They have.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! <em>Be friendly</em> es una instrucción expresada en modo imperativo.',
@@ -335,16 +335,20 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '<em>Check the reservation</em>',
+              texto: '<em>Check the reservation.</em>',
               esCorrecta: false,
             },
-            { id: 'b', texto: '<em>Welcome the guest</em>', esCorrecta: false },
+            {
+              id: 'b',
+              texto: '<em>Welcome the guest.</em>',
+              esCorrecta: false,
+            },
             {
               id: 'c',
-              texto: "<em>Don't interrupt people who are busy</em>",
+              texto: "<em>Don't interrupt people who are busy.</em>",
               esCorrecta: true,
             },
-            { id: 'd', texto: '<em>Speak English</em>', esCorrecta: false },
+            { id: 'd', texto: '<em>Speak English.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Los imperativos negativos indican acciones que no deben realizarse.',
@@ -357,10 +361,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Comunicación efectiva', esCorrecta: true },
-            { id: 'b', texto: 'Arquitectura', esCorrecta: false },
-            { id: 'c', texto: 'Programación', esCorrecta: false },
-            { id: 'd', texto: 'Mecánica', esCorrecta: false },
+            { id: 'a', texto: 'Comunicación efectiva.', esCorrecta: true },
+            { id: 'b', texto: 'Arquitectura.', esCorrecta: false },
+            { id: 'c', texto: 'Programación.', esCorrecta: false },
+            { id: 'd', texto: 'Mecánica.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! La comunicación efectiva favorece una experiencia positiva para el huésped.',
@@ -373,14 +377,14 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Diseñar hoteles', esCorrecta: false },
+            { id: 'a', texto: 'Diseñar hoteles.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Fortalecer competencias comunicativas en inglés',
+              texto: 'Fortalecer competencias comunicativas en inglés.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Administrar finanzas', esCorrecta: false },
-            { id: 'd', texto: 'Crear <em>software</em>', esCorrecta: false },
+            { id: 'c', texto: 'Administrar finanzas.', esCorrecta: false },
+            { id: 'd', texto: 'Crear <em>software.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! El componente busca fortalecer la comunicación en inglés aplicada a la hotelería.',

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 <em>Dates, seasons and numerical expressions</em> // Manejo de fechas y expresiones numéricas
+      h1 <em>Dates, seasons and numerical expressions</em> / Manejo de fechas y expresiones numéricas
 
 
     .container
@@ -28,7 +28,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Expressing dates in English</em> // Expresando fechas en inglés
+          h3.titulo-con-imagen__texto <em>Expressing dates in English</em> / Expresando fechas en inglés
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-6.mb-lg-0.mb-4
@@ -60,7 +60,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 Seasons // Estaciones
+        h3.titulo-con-imagen__texto_2 Seasons / Estaciones
 
   
     .row.align-items-center.mb-5
@@ -72,7 +72,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 Seasons // Estaciones climáticas
+        h3.titulo-con-imagen__texto_2 Seasons / Estaciones climáticas
 
     
     .row.mb-5.justify-content-center.align-items-center
@@ -107,7 +107,7 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema4/img10.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Summer</em> // Verano
+            h5.text-center.mb-2 <em>Summer</em> / Verano
             p.mb-2.text-center <em>It begins on the June solstice, also known as the summer solstice.</em>
             p.mb-0.text-center Comienza en el solsticio de junio, también conocido como solsticio de verano.
 
@@ -115,7 +115,7 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema4/img11.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Autumn</em> // Otoño
+            h5.text-center.mb-2 <em>Autumn</em> / Otoño
             p.mb-2.text-center <em>It begins at the September equinox, at the end of summer.</em>
             p.mb-0.text-center Comienza en el equinoccio de septiembre, al final del verano.
 
@@ -123,7 +123,7 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema4/img12.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Winter</em> // Invierno
+            h5.text-center.mb-2 <em>Winter</em> / Invierno
             p.mb-2.text-center <em>It begins at the December solstice, when autumn ends.</em>
             p.mb-0.text-center Comienza en el solsticio de diciembre, cuando termina el otoño.
 
@@ -131,7 +131,7 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema4/img13.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Spring</em> // Primavera
+            h5.text-center.mb-2 <em>Spring</em> / Primavera
             p.mb-2.text-center <em>It begins at the March equinox, marking the end of winter.</em>
             p.mb-0.text-center Comienza en el equinoccio de marzo, marca el final del invierno.
 
@@ -139,7 +139,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Touristic seasons</em> // Temporadas turísticas
+          h3.titulo-con-imagen__texto <em>Touristic seasons</em> / Temporadas turísticas
 
 
     
@@ -150,23 +150,23 @@
 
 
         .bg-color-5.p-4.br-15.mb-3(data-aos="fade-right")
-          p.mb-3 <em>High season</em>
+          p.mb-3 <em>High season:</em>
           ul.lista-ul.mb-0
             li.mb-1
               i.lista-ul__vineta
-              span <em>Easter</em> 
+              span <em>Easter.</em> 
             li.mb-1
               i.lista-ul__vineta
-              span <em>Mid-year school holidays</em> 
+              span <em>Mid-year school holidays.</em> 
             li.mb-1
               i.lista-ul__vineta
-              span <em>Recess week</em> 
+              span <em>Recess week.</em> 
             li.mb-1
               i.lista-ul__vineta
-              span <em>End-of-year school holidays</em> 
+              span <em>End-of-year school holidays.</em> 
             li.mb-1
               i.lista-ul__vineta
-              span <em>Holiday weekends</em> 
+              span <em>Holiday weekends.</em> 
             li.mb-0
               i.lista-ul__vineta
               span <em>Consequently, the low season would be the opposite periods. This example applies to destinations with a pure tourist vocation.</em>
@@ -210,7 +210,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Mathematical expressions</em> // Expresiones matemáticas
+        h3.titulo-con-imagen__texto_2 <em>Mathematical expressions</em> / Expresiones matemáticas
 
     p.mb-3 <em>To correctly express numerical and mathematical quantities, it is necessary to know some terms commonly used in this type of expressions.</em>
     p.mb-5 Para expresar correctamente cantidades numéricas y matemáticas, es necesario conocer algunos términos de uso común en este tipo de expresiones.
@@ -221,7 +221,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 2.
-          span <em>Mathematical expressions</em> // Expresiones matemáticas
+          span <em>Mathematical expressions</em> / Expresiones matemáticas
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
@@ -234,55 +234,55 @@
                 th Operación
             tbody
               tr
-                td (+)
+                td +
                 td <em>Plus</em>
                 td Más
                 td <em>Add</em>
                 td Sumar
               tr
-                td (-)
+                td -
                 td <em>Minus</em>
                 td Menos
                 td <em>Subtract</em>
                 td Restar
               tr
-                td (x)
+                td x
                 td <em>Multiplied by</em>
                 td Multiplicado por
                 td <em>Multiply</em>
                 td Multiplicar
               tr
-                td (÷)
+                td ÷
                 td <em>Divided by</em>
                 td Dividido por
                 td <em>Divide</em>
                 td Dividir
               tr
-                td (>)
+                td >
                 td <em>Greater than</em>
                 td Mayor que
                 td <em>Is greater than</em>
                 td Es mayor que
               tr
-                td (<)
+                td <
                 td <em>Less than</em>
                 td Menor que
                 td <em>Is less than</em>
                 td Es menor que
               tr
-                td (=)
+                td =
                 td <em>Equal</em>
                 td Igual
                 td <em>Is equal to</em>
                 td Es igual a
               tr
-                td (≠)
+                td ≠
                 td <em>Is not equal</em>
                 td No es igual
                 td <em>Is not equal to</em>
                 td No es igual a
               tr
-                td (%)
+                td %
                 td <em>Percentage</em>
                 td Porcentaje
                 td -
@@ -292,7 +292,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Quantitative adjectives</em> // Adjetivos cuantitativos
+        h3.titulo-con-imagen__texto_2 <em>Quantitative adjectives</em> / Adjetivos cuantitativos
 
 
         
@@ -314,7 +314,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 3.
-          span <em>Quantitative adjectives</em> // Adjetivos cuantitativos
+          span <em>Quantitative adjectives</em> / Adjetivos cuantitativos
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 <em>Service situations and instructions</em> // Atención de situaciones especiales e instrucciones
+      h1 <em>Service situations and instructions</em> / Atención de situaciones especiales e instrucciones
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-6.order-1.order-lg-1
@@ -23,15 +23,17 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Special requirements and difficult situations</em> // Requerimientos especiales y situaciones difíciles
+          h3.titulo-con-imagen__texto <em>Special requirements and difficult situations</em> / Requerimientos especiales y situaciones difíciles
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img02.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-2 <em>Providing excellent hospitality service involves understanding and responding effectively to the diverse needs, questions, and requests of guests. Every interaction represents an opportunity to deliver a positive experience and strengthen guest satisfaction.</em>
-        p.mb-0 <em>During daily hotel operations, guests may approach the reception desk seeking information, assistance, or support with specific requests. Some situations may require special attention, adaptability, and effective communication.</em>
+        p(style="margin-bottom: 0.5rem !important;")
+          em Providing excellent hospitality service involves understanding and responding effectively to the diverse needs, questions, and requests of guests. Every interaction represents an opportunity to deliver a positive experience and strengthen guest satisfaction.
+        p.mb-3 
+          em During daily hotel operations, guests may approach the reception desk seeking information, assistance, or support with specific requests. Some situations may require special attention, adaptability, and effective communication.
 
 
     p.mb-3 <em>Recognizing the different types of guest interactions helps hospitality professionals respond appropriately and provide service that is respectful, efficient, and guest-centered.</em>
@@ -175,7 +177,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Imperatives for basic instructions</em> // Imperativos para instrucciones básicas
+        h3.titulo-con-imagen__texto_2 <em>Imperatives for basic instructions</em> / Imperativos para instrucciones básicas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.col-md-12.mb-4.mb-lg-0
@@ -228,23 +230,25 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Affirmative imperative</em> // Imperativo afirmativo
+        h3.titulo-con-imagen__texto_2 <em>Affirmative imperative</em> / Imperativo afirmativo
 
 
     .row.align-items-center.mb-5
-      .col-lg-6.col-md-12.mb-4.mb-lg-0
+      .col-lg-6.col-md-12.mb-3.mb-lg-0
         p.mb-3 <em>This is the most common usage. Imperative sentences do not have a grammatical subject, but they do have a subject that is inferred, the singular and plural second person, “you”. In that way, the basic form of imperative sentences is.</em>
         .bg-color-9.p-3.mb-3(style="width: max-content !important;")
           p.mb-0 <em>verb (infinitive without to) + object (if needed).</em>
+      .col-lg-6.col-md-12
         p.mb-3 Este es el uso más común. Las oraciones imperativas no tienen un sujeto gramatical, pero sí tienen un sujeto que se infiere, la segunda persona del singular y del plural, “tú”, “usted” o “ustedes”. De esa manera, la forma básica de las oraciones imperativas es.
         .bg-color-22.p-3(style="width: max-content !important;")
           p.mb-0 verbo (infinitivo sin “to”) + objeto (si es necesario).
 
-      .col-lg-6.col-md-12
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 5.
-          span <em>Affirmative imperative</em> // Imperativo afirmativo
+          span <em>Affirmative imperative</em> / Imperativo afirmativo
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
@@ -263,7 +267,7 @@
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Negative imperative</em> // Imperativo negativo
+        h3.titulo-con-imagen__texto_2 <em>Negative imperative</em> / Imperativo negativo
 
     .row.align-items-center.mb-5
       .col-lg-4.col-md-12.mb-4.mb-lg-0
@@ -272,13 +276,13 @@
             img(src="@/assets/curso/tema6/img13.svg", style="max-width: 80px")
           .col-lg-12
             p.mb-3 <em>The negative imperative sentence has the same structure, plus “do not” or “don’t”.</em>
-            p.mb-0 La oración negativa imperativa tiene la misma estructura, más “do not” o “don’t”.
+            p.mb-0 La oración negativa imperativa tiene la misma estructura, más “<em>do not</em>” o “<em>don’t</em>”.
 
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 6.
-          span <em>Negative imperative</em> // Imperativo negativo
+          span <em>Negative imperative</em> / Imperativo negativo
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
@@ -300,7 +304,7 @@
 
     .titulo-con-imagen_2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Exhortative imperative</em> // Exhortación imperativa
+        h3.titulo-con-imagen__texto_2 <em>Exhortative imperative</em> / Exhortación imperativa
         
 
     .container
@@ -317,7 +321,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 7.
-          span <em>Exhortative imperative</em> // Exhortación imperativa
+          span <em>Exhortative imperative</em> / Exhortación imperativa
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2021).</span>

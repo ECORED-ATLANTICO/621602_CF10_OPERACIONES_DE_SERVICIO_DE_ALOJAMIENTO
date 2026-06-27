@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 <em>Clients, accommodation and payments</em> // Atención al cliente y procesos de alojamiento
+      h1 <em>Clients, accommodation and payments</em> / Atención al cliente y procesos de alojamiento
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-8
@@ -24,7 +24,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Types of clients</em> // Tipos de Clientes
+          h3.titulo-con-imagen__texto <em>Types of clients</em> / Tipos de Clientes
       
       
     .row.mb-5.justify-content-center.align-items-center
@@ -53,28 +53,28 @@
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         TabsA.color-acento-botones()
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Corporate</em> // Corporativo")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Corporate</em> / Corporativo")
             p.mb-3 <em>They are customers who travel for work or business reasons, their stay usually does not exceed one week. They tend to be very demanding with service and are usually less price sensitive.</em>
             p.mb-0 Son los clientes que viajan por motivos de trabajo o negocios, su permanencia generalmente no excede una semana. Suelen ser muy exigentes con el servicio, y por lo general son menos sensibles al precio.
         
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Senior citizens</em> // Tercera edad")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Senior citizens</em> / Tercera edad")
             p.mb-3 <em>Older adults who, due to their availability of time and resources, generally travel for leisure purposes. They are known as the “Boomer” generation.</em>
             p.mb-0 Los adultos mayores que por su disponibilidad de tiempo y recursos viajan generalmente con fines de esparcimiento. Se les conoce como la generación “Boomer”.
               
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Families</em> // Familias")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Families</em> / Familias")
             p.mb-3 <em>This type of traveler now occurs more frequently, and hotels face the request for the accommodation service for families in holiday seasons or weekends. In this group, the availability of money is tighter, so they are open to listening to all-inclusive offers and multiple accommodations.</em>
             p.mb-0 Este tipo de viajero ahora se ve con más frecuencia, y los hoteles afrontan la solicitud del servicio de alojamiento para las familias en temporadas de vacaciones o fines de semana. En este grupo, la disponibilidad de dinero es más ajustada, por lo que son abiertos a escuchar ofertas de todo incluido y a las acomodaciones múltiples.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Diplomats – government</em> // Diplomáticos - gobierno")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Diplomats – government</em> / Diplomáticos - gobierno")
             p.mb-3 <em>They are people who work with the state and travel for work, but they have an additional nuance and that is that usually and by the position they hold or the rank they have, their treatment may require a specific protocol, mainly for their safety.</em>
             p.mb-0 Son personas que trabajan con el Estado y viajan por trabajo, pero tienen un matiz adicional y es que, por lo general y en virtud del cargo que desempeñan o del rango que tienen, su tratamiento puede requerir un protocolo específico, principalmente por su seguridad.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Groups</em> // Grupos")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Groups</em> / Grupos")
             p.mb-3 <em>This type of guests is a congregation of people traveling on the same dates and with similar travel motivations (a convention, a tour, etc.) They have certain specific treatments and services common to all of them.</em>
-            p.mb-0 Esta tipología de huéspedes es una congregación de personas que viajan en las mismas fechas y con motivaciones de viaje similares (una convención, un tour, etc.). Poseen ciertos tratamientos y servicios específicos comunes a todos ellos.
+            p.mb-0 Esta tipología de huéspedes es una congregación de personas que viajan en las mismas fechas y con motivaciones de viaje similares (una convención, un <em>tour</em>, etc.). Poseen ciertos tratamientos y servicios específicos comunes a todos ellos.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Luxury travelers</em> // Viajeros de lujo")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Luxury travelers</em> / Viajeros de lujo")
             p.mb-3 <em>These travelers are the ones who have the highest expectations and are willing to pay for the experience. Usually, the price is not a problem for them. They are sophisticated and pay a lot of attention to the value of what they get (value for money).</em>
             p.mb-0 Estos viajeros son los que tienen mayores expectativas y están dispuestos a pagar por la experiencia. Por lo general, el precio no es problema para ellos. Son sofisticados y se fijan mucho en el valor de lo que obtienen, (relación calidad/precio).
            
@@ -88,7 +88,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Guest Information</em> // Información del huésped
+          h3.titulo-con-imagen__texto <em>Guest Information</em> / Información del huésped
       
 
 
@@ -110,7 +110,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Countries</em> // Países
+              h4.mb-3 <em>Countries</em> / Países
               p.mb-2 <em>During check-in and because of the migration information process, the origin and destination of the passenger are inquired. A person will identify himself but will not necessarily come from or go to his or her country of origin.</em>
               p.mb-0 Durante el <em>check-in</em> y de cara al proceso de información migratoria, se indaga sobre la procedencia y el destino del pasajero. Una persona se identificará, pero no necesariamente vendrá o se dirigirá a su país de origen.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -118,7 +118,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Nationalities</em> // Nacionalidades
+              h4.mb-3 <em>Nationalities</em> / Nacionalidades
               p.mb-2 <em>In the same way, at check-in you must enter the nationality information. At this point, the recommendation is to check if the person has dual nationality, as this can affect the management of billing and taxes.</em>
               p.mb-0 De la misma forma, durante el registro usted deberá ingresar la información de nacionalidad. En este punto, la recomendación es revisar si la persona cuenta con doble nacionalidad, ya que esto puede afectar la gestión de facturación e impuestos.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -126,7 +126,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Personal information</em> // Información personal
+              h4.mb-3 <em>Personal information</em> / Información personal
               p.mb-2 <em>The personal information of guests is sensitive. Remember that this is protected by confidentiality and privacy laws, so you should only inquire about the necessary and relevant data for your work. (Address, phone number, e-mail, marital status).</em>
               p.mb-0 La información personal de los huéspedes, es delicada. Recuerde que esta está protegida por leyes de confidencialidad y privacidad, por lo que solo debe indagar por los datos necesarios y relevantes para su trabajo. (Dirección, número de teléfono, correo electrónico, estado civil).
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -138,19 +138,19 @@
       .col-lg-9.col-md-12.order-1.order-lg-2
         
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
-          div(titulo="<em>Documents</em> // Documentos")
+          div(titulo="<em>Documents</em> / Documentos")
             p.ms-5.mb-3 <em>The identity documents must comply with the current rules of identification and acceptance by the hotel. You must keep abreast of developments in this regard. Always be attentive to the originality of the documentation presented, and if you have any news about it, be prudent with the handling of this.</em>
             p.ms-5.mb-0 Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte de hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada y si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
 
-          div(titulo="<em>Purpose of the trip</em> // Propósito del viaje")
+          div(titulo="<em>Purpose of the trip</em> / Propósito del viaje")
             p.ms-5.mb-3 <em>It will help you reveal what type of traveler is the one in front of you, and meet the requirements and requests accordingly.</em>
             p.ms-5.mb-0 Le ayudará a develar el tipo de viajero que tiene enfrente y, de esta forma, atender los requerimientos y solicitudes adecuadamente.
 
-          div(titulo="<em>Credit card number</em> // Número de tarjeta de crédito")
+          div(titulo="<em>Credit card number</em> / Número de tarjeta de crédito")
             p.ms-5.mb-3 <em>This is another extremely sensitive item. Taking the data correctly can make the difference between being able to collect an account or not. On the other hand, keeping financial data secure is a very high responsibility. The recommendation is to follow the management protocols.</em>
             p.ms-5.mb-0 Este es otro elemento extremadamente sensible. Tomar los datos de manera correcta puede hacer la diferencia entre poder cobrar una cuenta o no. Por otro lado, mantener los datos financieros seguros es una responsabilidad muy grande. La recomendación es seguir los protocolos de manejo.
 
-          div(titulo="<em>Schedules</em> // Horarios")
+          div(titulo="<em>Schedules</em> / Horarios")
             p.ms-5.mb-3 <em>Reporting schedules is also a common activity, so knowing how to express the time will be useful.</em>
             p.ms-5.mb-0 Informar horarios es también una actividad común, por lo que conocer la forma de expresar el tiempo le será útil.
 
@@ -162,7 +162,7 @@
               
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
-        h3.titulo-con-imagen__texto_2 <em>Countries and nationalities in English</em> // Países y nacionalidades en inglés
+        h3.titulo-con-imagen__texto_2 <em>Countries and nationalities in English</em> / Países y nacionalidades en inglés
 
     p.mb-5 <em>The following document presents a list of countries and nationalities commonly used in hospitality and tourism contexts. This resource supports the development of vocabulary and communication skills required when interacting with guests from different parts of the world.</em>
 
@@ -176,7 +176,7 @@
               .col-12.col-lg-7.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 El siguiente documento presenta una lista de países y nacionalidades de uso frecuente en contextos hoteleros y turísticos. Este recurso favorece el desarrollo del vocabulario y las habilidades de comunicación necesarias para interactuar con huéspedes provenientes de diferentes partes del mundo.
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/lista_paises_español_ingles.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/lista_paises_espanol_ingles.pdf')" target="_blank")
                   span Consultar pdf
                   i.fas.fa-file
 
@@ -186,7 +186,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Accommodation</em> // Alojamiento
+          h3.titulo-con-imagen__texto <em>Accommodation</em> / Alojamiento
 
     .row.mb-5.align-items-center.justify-content-center
       .col-lg-10
@@ -198,7 +198,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 1.
-          span <em>Accommodation</em> // alojamiento
+          span <em>Accommodation</em> / alojamiento
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
@@ -206,7 +206,7 @@
               tr
                 th <em>Bed types</em>
                 th Tipos de camas
-                th <em>Measurements</em> // Medidas
+                th <em>Measurements</em> / Medidas
             tbody
               tr
                 td <em>Single bed</em>
@@ -222,11 +222,11 @@
                 td 1.40 mts x 1.90 mts
               tr
                 td <em>Queen-size bed</em>
-                td Cama queen
+                td Cama <em>queen</em>
                 td 1.80 mts x 1.90 mts
               tr
                 td <em>King-size bed</em>
-                td Cama king
+                td Cama <em>king</em>
                 td 2.00 mts x 2.00 mts
               
 
@@ -237,24 +237,24 @@
             img(src='@/assets/curso/tema3/img11.png', alt="").mx-auto
           .col-lg-9.col-md-12
             SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12").p-4
-              .tarjeta.bg-white.p-3.h-100
-                img.mb-3(src='@/assets/curso/tema3/img12.svg' alt="", style="width: 150px; height: 150px;").mx-auto
+              .tarjeta.bg-white.p-2.h-100
+                img.mb-2(src='@/assets/curso/tema3/img12.svg' alt="", style="width: 250px; height: 250px;").mx-auto
                 h5.text-center.mb-2 <em>Single bed</em>
 
-              .tarjeta.bg-white.p-3.h-100
-                img.mb-3(src='@/assets/curso/tema3/img13.svg' alt="", style="width: 150px; height: 150px;").mx-auto
+              .tarjeta.bg-white.p-2.h-100
+                img.mb-2(src='@/assets/curso/tema3/img13.svg' alt="", style="width: 250px; height: 250px;").mx-auto
                 h5.text-center.mb-2 <em>Semi-double bed</em>
 
-              .tarjeta.bg-white.p-3.h-100
-                img.mb-3(src='@/assets/curso/tema3/img14.svg' alt="", style="width: 150px; height: 150px;").mx-auto
+              .tarjeta.bg-white.p-2.h-100
+                img.mb-2(src='@/assets/curso/tema3/img14.svg' alt="", style="width: 250px; height: 250px;").mx-auto
                 h5.text-center.mb-2 <em>Full-size bed</em>
 
-              .tarjeta.bg-white.p-3.h-100
-                img.mb-3(src='@/assets/curso/tema3/img15.svg' alt="", style="width: 150px; height: 150px;").mx-auto
+              .tarjeta.bg-white.p-2.h-100
+                img.mb-2(src='@/assets/curso/tema3/img15.svg' alt="", style="width: 250px; height: 250px;").mx-auto
                 h5.text-center.mb-2 <em>Queen-size bed</em>
 
-              .tarjeta.bg-white.p-3.h-100
-                img.mb-3(src='@/assets/curso/tema3/img16.svg' alt="", style="width: 150px; height: 150px;").mx-auto
+              .tarjeta.bg-white.p-2.h-100
+                img.mb-2(src='@/assets/curso/tema3/img16.svg' alt="", style="width: 250px; height: 250px;").mx-auto
                 h5.text-center.mb-2 <em>King-size bed</em>
 
       
@@ -262,7 +262,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Room types</em> // Tipos de habitación
+          h3.titulo-con-imagen__texto <em>Room types</em> / Tipos de habitación
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -341,7 +341,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Payment forms</em> // Formas de pago
+          h3.titulo-con-imagen__texto <em>Payment forms</em> / Formas de pago
 
     .row.align-items-center.mb-5
       .col-lg-2.d-none.d-lg-flex
@@ -355,20 +355,20 @@
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         TabsA.color-acento-botones()
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Official currency in Colombia</em> // Moneda oficial en Colombia")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Official currency in Colombia</em> / Moneda oficial en Colombia")
             p.mb-2 <em>In the Republic of Colombia, including its islands of San Andrés and Providencia, the national currency is the Colombian peso, identified by the sign of the same name ($) and whose abbreviation is COP. The national currency is presented in notes and coins.</em>
             p.mb-3 <em>Official currency is Colombian peso (COP). These are the bills and coins.</em>
             p.mb-0 En la República de Colombia, incluyendo sus islas de San Andrés y Providencia, la moneda nacional es el peso colombiano, identificado con el signo del mismo nombre ($) y cuya abreviatura es COP. La moneda nacional se presenta en billetes y monedas.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Foreign currency payments</em> // Pagos en moneda extranjera")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Foreign currency payments</em> / Pagos en moneda extranjera")
             p.mb-3 <em>In Colombia, by regulation, it is forbidden to invoice in foreign currencies. And those who receive foreign currency as a form of payment must operate as professional money exchangers. Beyond this consideration, the currencies that are accepted in Colombia are: U.S. dollars and euros.</em>
             p.mb-0 En Colombia, por normatividad, está prohibido facturar en moneda extranjera. Y quienes reciben moneda extranjera como forma de pago deben operar como cambistas profesionales. Más allá de esta consideración, las monedas que se aceptan en Colombia son: dólares americanos y euros.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Debit and credit cards</em> // Tarjetas débito y crédito")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Debit and credit cards</em> / Tarjetas débito y crédito")
             p.mb-3 <em>This is the most widespread form of payment, for its ease of use and immediate confirmation since what the cards do is to debit from the cardholder’s account and deposit into the hotel account. In this section, the important thing is to comply with the security regulations about the use of cards and identification of cardholders to avoid fraud.</em>
             p.mb-0 Este es la forma de pago más extendida, por su facilidad de uso y confirmación inmediata, ya que las tarjetas lo que hacen es debitar de la cuenta del tarjetahabiente y depositar en la cuenta del hotel. En este apartado, lo importante es cumplir las normativas de seguridad en el uso de tarjetas e identificación de tarjetahabientes para evitar los fraudes.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Money collectors</em> // Recaudadores de dinero")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Money collectors</em> / Recaudadores de dinero")
             p.mb-3 <em>This form of payment is becoming increasingly relevant, since they are the forms of payment used by e-commerce companies. Here can be mentioned:</em>
             ul.lista-ul.mb-3
               li
@@ -386,7 +386,7 @@
                 i.lista-ul__vineta
                 span Billeteras Digitales: Nequi, Daviplata, Mercado Pago.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Payment gateways</em> // Pasarelas de pago")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Payment gateways</em> / Pasarelas de pago")
             p.mb-3 <em>These forms of payment are made available to customers through:</em>
             ul.lista-ul.mb-3
               li

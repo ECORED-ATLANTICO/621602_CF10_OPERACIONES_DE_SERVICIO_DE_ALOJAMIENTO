@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 <em>Guest Information and Reservations</em> // Información del huésped y reservas
+      h1 <em>Guest Information and Reservations</em> / Información del huésped y reservas
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-8
@@ -22,7 +22,7 @@
     .container
       .titulo-con-imagen_2.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo_2
-          h3.titulo-con-imagen__texto_2 <em>Spelling names</em> // Deletreando nombres
+          h3.titulo-con-imagen__texto_2 <em>Spelling names</em> / Deletreando nombres
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-2.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
@@ -49,7 +49,7 @@
       .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
         .titulo-con-imagen_2.mb-4(data-aos="fade-right")
           .titulo-con-imagen__fondo_2
-            h3.titulo-con-imagen__texto_2 <em>Titles</em> // Títulos
+            h3.titulo-con-imagen__texto_2 <em>Titles</em> / Títulos
 
         p.mb-3 <em>When talking about titles in English, we refer to the formality with which people are treated according to gender. There are titles of common use and formal titles, which sometimes are referred to the professions and others to the nobility.</em>
         p.mb-0 Cuando se habla de títulos en inglés, se hace referencia a la formalidad con la que se trata a las personas según el género. Hay títulos de uso común y títulos formales, que a veces se refieren a las profesiones y otros a la nobleza.
@@ -57,7 +57,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12
         PasosA.color-primario(tipo="n")
-          .row(titulo="<em>Commonly used titles</em> // Títulos de uso común").align-items-center
+          .row(titulo="<em>Commonly used titles</em> / Títulos de uso común").align-items-center
             .col-lg-10.order-1.order-lg-1
               h3 Paso 1
               p.text-bold.mb-0 <em>The most common titles and provides guidance on their use in different situations.</em>
@@ -78,7 +78,7 @@
             .col-lg-2.order-2.order-lg-2.d-none.d-lg-flex
               img(src="@/assets/curso/tema2/img06.png", alt="").mx-auto
 
-          .row(titulo="<em>Formal titles</em> // Títulos formales").align-items-center.text-left
+          .row(titulo="<em>Formal titles</em> / Títulos formales").align-items-center.text-left
             .col-lg-10.order-1.order-lg-2
               h3 Paso 2
               p.text-bold.mb-0 <em>Now referring to formal titles, these should be used with people who possess dignity, such as kings, queens, ambassadors, presidents. In that case, we use:</em>
@@ -99,7 +99,7 @@
             .col-lg-2.order-2.order-lg-1.d-none.d-lg-flex
               img(src="@/assets/curso/tema2/img07.png", alt="").mx-auto
 
-          .row(titulo="<em>Academic titles</em> // Títulos académicos").align-items-center.text-left
+          .row(titulo="<em>Academic titles</em> / Títulos académicos").align-items-center.text-left
             .col-lg-10.order-1.order-lg-1
               h3 Paso 3
               p.text-bold.mb-0 <em>Finally, there are academic titles, that are used to recognize people with high educational degrees or positions. The most used are:</em>
@@ -123,7 +123,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Reservations</em> // Reservas
+          h3.titulo-con-imagen__texto <em>Reservations</em> / Reservas
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -138,25 +138,25 @@
       .col-lg-9.col-md-12.order-2.order-lg-1
         
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
-          div(titulo="<em>Confirmed booking (not guaranteed)</em> // Reserva confirmada (no garantizada)")
+          div(titulo="<em>Confirmed booking (not guaranteed)</em> / Reserva confirmada (no garantizada)")
             p.ms-5.mb-3 <em>They are reservations from individuals or intermediaries, in which there is no guarantee. Usually, the hotel sets up a time limit for check-in which usually is at 18:00 hours, after which, if guests do not show up, the reservation is canceled.</em>
             p.ms-5.mb-0 Son reservas de particulares o intermediarios, en las que no hay garantía. Por lo general, el hotel establece una hora límite para el registro, que generalmente son las 18:00 horas, después de lo cual, si los huéspedes no se presentan, la reserva se cancela.
 
-          div(titulo="<em>Guaranteed reservation</em> // Reserva garantizada")
+          div(titulo="<em>Guaranteed reservation</em> / Reserva garantizada")
             p.ms-5.mb-3 <em>A guaranteed reservation means that the hotel has a guarantee, usually a confirmation letter, a credit card or a deposit, that ensures that, if guests do not show up on the stipulated date, the hotel will charge a predetermined amount. Usually, the first night of accommodation is charged, although this may vary depending on the booking conditions.</em>
             p.ms-5.mb-0 Una reserva garantizada significa que el hotel tiene una garantía, generalmente una carta de confirmación, una tarjeta de crédito o un depósito, que asegura que, si los huéspedes no se presentan en la fecha estipulada, el hotel cobrará una cantidad predeterminada. Por lo general, se cobra la primera noche de alojamiento, aunque esto puede variar dependiendo de las condiciones de reserva.
 
-          div(titulo="<em>Provisional reservation (tentative)</em> // Reserva provisional (tentativa)")
+          div(titulo="<em>Provisional reservation (tentative)</em> / Reserva provisional (tentativa)")
             p.ms-5.mb-3 <em>It is a reservation that is made to then be confirmed or guaranteed. In case of no movement happening with the reservation within a previously stipulated period, the reservation is canceled.</em>
             p.ms-5.mb-0 Es una reserva que se realiza para luego ser confirmada o garantizada. En caso de que no se produzca ningún movimiento con la reserva dentro de un plazo previamente estipulado, la reserva se cancela.
 
-          div(titulo="<em>Waiting list booking</em> // Reserva en lista de espera")
+          div(titulo="<em>Waiting list booking</em> / Reserva en lista de espera")
             p.ms-5.mb-3 <em>When a particular date is fully sold, i.e., occupancy for that night is projected at one hundred percent (100 %) of the rooms. In this case the hotel, according to its policy, can receive additional reservations, which will go to a waiting list. In practice, this means that, if any of the previously registered reservations are not submitted, the reservations on the waiting list will come in to replace those reservations.</em>
             p.ms-5.mb-0 Cuando una fecha en particular se vende por completo, es decir, la ocupación para esa noche se proyecta en cien por ciento (100 %) de las habitaciones. En este caso, el hotel, de acuerdo con sus políticas, puede recibir reservas adicionales, que irán a una lista de espera. En la práctica, esto significa que, si no se presenta alguna de las reservas previamente registradas, las reservas en la lista de espera entrarán en sustitución de dichas reservas.
 
-          div(titulo="<em>V.I.P. Reservations</em> // Reservas V.I.P.")
+          div(titulo="<em>V.I.P. Reservations</em> / Reservas V.I.P.")
             p.ms-5.mb-3 <em>Within hotel slang, the acronym VIP (Very Important Person) is used to identify the reservations of people who require special attention because of their status. These reservations require special attention from all areas of the hotel to ensure the provision of excellent service.</em>
-            p.ms-5.mb-0 Dentro del argot hotelero, el acrónimo VIP (Very Important Person) se utiliza para identificar las reservas de personas que requieren especial atención por su estatus. Estas reservas requieren una atención especial de todas las áreas del hotel para garantizar la prestación de un servicio excelente.
+            p.ms-5.mb-0 Dentro del argot hotelero, el acrónimo VIP (<em>Very Important Person</em>) se utiliza para identificar las reservas de personas que requieren especial atención por su estatus. Estas reservas requieren una atención especial de todas las áreas del hotel para garantizar la prestación de un servicio excelente.
       .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/img10.png", alt="").img-fluid.mx-auto
@@ -167,7 +167,7 @@
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Group bookings</em> // Reservas de grupo
+              h4.mb-3 <em>Group bookings</em> / Reservas de grupo
               p.mb-2 <em>They are usually bookings they make for groups of more than ten (10) rooms arriving on a date and guaranteed by a company or travel agency. The group’s operating conditions are stipulated in previous contracts.</em>
               p.mb-0 Suelen ser reservas que se realizan para grupos de más de diez (10) habitaciones que llegan en una fecha y están garantizadas por una empresa o agencia de viajes. Las condiciones de operación del grupo están estipuladas en contratos anteriores.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -175,7 +175,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Canceled bookings</em> // Reservas canceladas
+              h4.mb-3 <em>Canceled bookings</em> / Reservas canceladas
               p.mb-2 <em>These reservations are generated either by direct request of the customers in case of not being able to honor the reservation or by the hotel due to a special situation which will force it to give it the proper management according to the established policies.</em>
               p.mb-0 Estas reservas se generan bien por petición directa de los clientes, en caso de no poder cumplir con la reserva, o por el hotel, debido a una situación especial que les obligará a darle el manejo adecuado de acuerdo con las políticas establecidas.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -183,7 +183,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>Allotment</em> // Asignación
+              h4.mb-3 <em>Allotment</em> / Asignación
               p.mb-2 <em>In the hotel business, it is the agreement or negotiation with companies, travel agents or airlines, in which these are assigned with a certain number of rooms daily, which are guaranteed, either because they use them or resell them.</em>
               p.mb-0 En el negocio hotelero, es un acuerdo o negociación con empresas, agencias de viajes o aerolíneas, en el que se les asigna un determinado número de habitaciones diarias, que están garantizadas, ya sea porque las utilizan o las revenden.
             .col-lg-5.col-md-8.order-2.order-lg-2
@@ -191,7 +191,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-10.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-3 <em>No show</em> // No <em>show</em>
+              h4.mb-3 <em>No show</em> / No <em>show</em>
               p.mb-2 <em>This is not a type of reservation, but it is a condition associated with bookings, and occurs when guaranteed reservations are not presented. This control is very important to carry out since it allows the hotel, among other things, to collect the guarantees, give space to the waiting lists, and use this statistic to complement the forecast.</em>
               p.mb-0 Este no es un tipo de reserva, sino que se trata de una condición asociada a las reservas, y se produce cuando no se presentan las reservas garantizadas. Este control es muy importante de llevar a cabo, ya que permite al hotel, entre otras cosas, recoger las garantías, dar espacio a las listas de espera, utilizar esta estadística para complementar las proyecciones.
             .col-lg-2.col-md-6.order-2.order-lg-2
@@ -218,7 +218,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Conditions</em> // Condiciones
+          h3.titulo-con-imagen__texto <em>Conditions</em> / Condiciones
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
@@ -229,28 +229,28 @@
           ul.lista-ul.mb-0
             li.mb-1
               i.lista-ul__vineta
-              span <em>Arrival date</em>
+              span <em>Arrival date.</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>Departure date</em>
+              span <em>Departure date.</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>Confirmed rate</em>
+              span <em>Confirmed rate.</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>Rate inclusions and non-inclusions</em>
+              span <em>Rate inclusions and non-inclusions.</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>Nature of the reservation (flexible, non-refundable)</em>
+              span <em>Nature of the reservation (flexible, non-refundable).</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>If advance payment is required and the maximum date to make it</em>
+              span <em>If advance payment is required and the maximum date to make it.</em>
             li.mb-1
               i.lista-ul__vineta
-              span <em>Cancellation Policy</em>
+              span <em>Cancellation Policy.</em>
             li.mb-0
               i.lista-ul__vineta
-              span <em>Acceptance</em>
+              span <em>Acceptance.</em>
 
         p.mb-0 <em>All these terms and conditions must be contained in a document published on the hotel’s website or delivered to the booking holder at the time of receiving confirmation.</em>
 
@@ -267,28 +267,28 @@
           ul.lista-ul.mb-0
             li.mb-1
               i.lista-ul__vineta
-              span Fecha de llegada
+              span Fecha de llegada.
             li.mb-1
               i.lista-ul__vineta
-              span Fecha de salida
+              span Fecha de salida.
             li.mb-1
               i.lista-ul__vineta
-              span Tarifa confirmada
+              span Tarifa confirmada.
             li.mb-1
               i.lista-ul__vineta
-              span Inclusiones y no inclusiones de la tarifa
+              span Inclusiones y no inclusiones de la tarifa.
             li.mb-1
               i.lista-ul__vineta
-              span Carácter de la reserva (flexible, no reembolsable)
+              span Carácter de la reserva (flexible, no reembolsable).
             li.mb-1
               i.lista-ul__vineta
-              span Si se requiere pago anticipado y la fecha máxima para realizarlo
+              span Si se requiere pago anticipado y la fecha máxima para realizarlo.
             li.mb-1
               i.lista-ul__vineta
-              span Política de cancelación
+              span Política de cancelación.
             li.mb-0
               i.lista-ul__vineta
-              span Aceptación
+              span Aceptación.
 
         p.mb-0 Todas estos términos y condiciones deben estar contenidos en un documento publicado en la web del hotel o entregado al titular de la reserva al momento de recibir la confirmación.
 
@@ -298,7 +298,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Cancellation fee</em> // Tarifa de cancelación
+          h3.titulo-con-imagen__texto <em>Cancellation fee</em> / Tarifa de cancelación
 
     
     .container
@@ -322,7 +322,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Policies</em> // Políticas
+          h3.titulo-con-imagen__texto <em>Policies</em> / Políticas
 
     .bg-full-width.bg-fondo-5.px-5.py-4
       img(src="@/assets/curso/tema2/img17.png", alt="")
@@ -418,37 +418,37 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img21.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Duties and rights of the hotel</em> // Deberes y derechos del hotel.
+            h5.text-center.mb-2 <em>Duties and rights of the hotel</em> / Deberes y derechos del hotel.
 
           .tarjeta.bg-fondo-6.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img22.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Duties and rights of the guest</em> // Deberes y derechos del huésped.
+            h5.text-center.mb-2 <em>Duties and rights of the guest</em> / Deberes y derechos del huésped.
 
           .tarjeta.bg-fondo-6.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img23.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Photography and video policy</em> // Política de fotografía y video.
+            h5.text-center.mb-2 <em>Photography and video policy</em> / Política de fotografía y video.
 
           .tarjeta.bg-fondo-6.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img24.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Local government rules</em> // Normas del gobierno local.
+            h5.text-center.mb-2 <em>Local government rules</em> / Normas del gobierno local.
 
           .tarjeta.bg-fondo-6.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img25.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Security and evacuation policy</em> // Política de seguridad y evacuación.
+            h5.text-center.mb-2 <em>Security and evacuation policy</em> / Política de seguridad y evacuación.
 
           .tarjeta.bg-fondo-6.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema2/img26.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>Privacy, data, and information management policies</em> // Políticas de privacidad, datos y administración de la información.
+            h5.text-center.mb-2 <em>Privacy, data, and information management policies</em> / Políticas de privacidad, datos y administración de la información.
 
 
 

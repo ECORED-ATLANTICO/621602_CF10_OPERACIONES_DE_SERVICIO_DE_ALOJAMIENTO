@@ -24,42 +24,42 @@ export default {
         nombreRuta: 'tema1',
         numero: '1',
         titulo:
-          '<em>Rates and customer transactions</em> // Tarifas y transacciones con clientes',
+          '<em>Rates and customer transactions</em> / Tarifas y transacciones con clientes',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          '<em>Guest Information and Reservations</em> // Información del huésped y reservas',
+          '<em>Guest Information and Reservations</em> / Información del huésped y reservas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          '<em>Clients, accommodation and payments</em> // Atención al cliente y procesos de alojamiento',
+          '<em>Clients, accommodation and payments</em> / Atención al cliente y procesos de alojamiento',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          '<em>Dates, seasons and numerical expressions</em> // Manejo de fechas y expresiones numéricas',
+          '<em>Dates, seasons and numerical expressions</em> / Manejo de fechas y expresiones numéricas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
         titulo:
-          '<em>Schedules and describing places</em> // Horarios y descripción de espacios',
+          '<em>Schedules and describing places</em> / Horarios y descripción de espacios',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
         titulo:
-          '<em>Service situations and instructions</em> // Atención de situaciones especiales e instrucciones',
+          '<em>Service situations and instructions</em> / Atención de situaciones especiales e instrucciones',
         desarrolloContenidos: true,
       },
     ],
@@ -152,7 +152,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional 06 - Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
