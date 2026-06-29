@@ -290,7 +290,7 @@
               tr
                 th <em>Do + not</em>
                 th <em>Base (verbal form)</em>
-                th -
+                th <em>Complement</em>
             tbody
               tr
                 td <em>Do not / don’t</em>
@@ -329,7 +329,7 @@
               tr
                 th <em>Let + us</em>
                 th <em>Base (verbal form)</em>
-                th -
+                th <em>Complement</em>
             tbody
               tr
                 td <em>Let us / let’s</em>
@@ -401,7 +401,6 @@
               li
                 i.lista-ul__vineta
                 em To be the mediator of the communications between the guests and the corresponding departments so that the requirements are carried out in a timely and effective manner.
-            p.mb-0(data-aos="fade-right") <em>Here are some words that can be used for these labors in the imperative form:</em>
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-8.order-1.order-lg-2

@@ -51,22 +51,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '<em>Basic Accommodation Rate</em>',
+              texto: '<em>Basic Accommodation Rate.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Best Available Rate</em>',
+              texto: '<em>Best Available Rate.</em>',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: '<em>Booking Administration Rate</em>',
+              texto: '<em>Booking Administration Rate.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Business Account Rate</em>',
+              texto: '<em>Business Account Rate.</em>',
               esCorrecta: false,
             },
           ],
@@ -168,7 +168,7 @@ export default {
             { id: 'a', texto: 'Euro.', esCorrecta: false },
             { id: 'b', texto: 'USD.', esCorrecta: false },
             { id: 'c', texto: 'COP.', esCorrecta: true },
-            { id: 'd', texto: 'Libra', esCorrecta: false },
+            { id: 'd', texto: 'Libra.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! El peso colombiano (COP) es la moneda oficial del país.',

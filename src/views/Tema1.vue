@@ -409,7 +409,7 @@
         p.mb-3 La estructura gramatical para formar la comparación es la siguiente:
 
         .bg-color-24.p-4.br-15.mb-0(data-aos="fade-left")
-          p.mb-3 Sujeto + verbo + adjetivo comparativo + <em>than</em> + objeto.
+          p.mb-3 Sujeto + verbo + adjetivo comparativo + que + objeto.
           p.mb-3 Ejemplos:
           p.mb-0 Pedro + es + más rápido + que + yo.
 

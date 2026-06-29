@@ -37,12 +37,13 @@
           
       .col-lg-9
         .bg-color-22.p-5
-          p.mb-2 <em>It is also common that when you are making reservations or confirming them, either in person or by phone, you have to use dates to agree on check-in and check-out dates with the client.</em>
+          p.mb-2 <em>It is common to use dates when making or confirming reservations, either in person or over the phone. Dates help you agree with the guest on the check-in and check-out schedule.</em>
           p.mb-2.text-bold <em>Example:</em>
-          p.mb-2 <em>Dear Mrs. González, I confirm your reservation details.</em>
-          p.mb-2 <em>Your check-in will be on June 26, 2021 (June twenty-sixth, two thousand and twenty-one) and you will be staying with us for three (3) nights, until June 29, 2021 (June twenty-ninth, two thousand and twenty-one).</em>
-          p.mb-2 <em>The confirmed rate is $349,000 + taxes (three hundred forty-nine thousand pesos, plus taxes).</em>
-          p.mb-0 <em>Another use of the expression of dates in English is for celebrations and events. In this way, you can give indications about special events or celebrations.</em>
+          p.mb-2 <em>Dear Mrs. González,</em>
+          p.mb-2 <em>I am writing to confirm your reservation details.</em>
+          p.mb-2 <em>Your check-in date is June 26, 2026 (June twenty-sixth, two thousand and twenty-six), and you will be staying with us for three (3) nights, until June 29, 2026 (June twenty-ninth, two thousand and twenty-six).</em>
+          p.mb-2 <em>The confirmed rate is COP $349,000 plus taxes (three hundred forty-nine thousand pesos, plus taxes).</em>
+          p.mb-0 <em>Dates are also commonly used when referring to celebrations, holidays, and special events. They allow you to provide information about important occasions and scheduled activities.</em>
 
         
     .row.justify-content-center.align-items-center.mb-5
@@ -52,11 +53,13 @@
           
       .col-lg-9.order-2.order-lg-1
         .bg-color-5.p-5
-          p.mb-2  También es habitual que al realizar reservas o confirmarlas, ya sea de forma presencial o telefónica, se tengan que usar fechas para acordar las fechas de entrada y salida con cliente.
+          p.mb-2  También es habitual utilizar las fechas al realizar o confirmar reservas, ya sea de forma presencial o por teléfono. Estas permiten acordar con el cliente las fechas de ingreso (<em>check-in</em>) y salida (<em>check-out</em>).
           p.mb-2.text-bold Ejemplo:
-          p.mb-2 Estimada señora González, confirmó los detalles de su reserva.
-          p.mb-2 Su registro será el 26 de junio de 2026 (veintiséis de junio de dos mil veintiséis) y se alojará con nosotros por tres (3) noches, hasta el 29 de junio de 2026 (veintinueve de junio de dos mil veintiséis). La tarifa confirmada es de $349.000 + impuestos (trescientos cuarenta y nueve mil pesos, más impuestos).
-          p.mb-0 Otro uso de la expresión de fechas en inglés es para las celebraciones o los eventos. De esta forma, se pueden dar indicaciones acerca de eventos especiales o celebraciones.
+          p.mb-2 Estimada señora González:
+          p.mb-2 Le escribimos para confirmar los detalles de su reserva.
+          p.mb-2 Su fecha de ingreso será el 26 de junio de 2026 (veintiséis de junio de dos mil veintiséis) y se alojará con nosotros durante tres (3) noches, hasta el 29 de junio de 2026 (veintinueve de junio de dos mil veintiséis).
+          p.mb-2 La tarifa confirmada es de $349.000 COP más impuestos (trescientos cuarenta y nueve mil pesos, más impuestos).
+          p.mb-0 Las fechas también se utilizan con frecuencia para hacer referencia a celebraciones, festividades y eventos especiales, permitiendo brindar información sobre ocasiones importantes y actividades programadas.
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")
       .titulo-con-imagen__fondo_2
@@ -185,24 +188,19 @@
           ul.lista-ul.mb-0
             li.mb-1
               i.lista-ul__vineta
-              span
-                em Semana Santa.
+              span Semana Santa.
             li.mb-1
               i.lista-ul__vineta
-              span
-                em Vacaciones escolares de mitad de año.
+              span Vacaciones escolares de mitad de año.
             li.mb-1  
               i.lista-ul__vineta
-              span
-                em Semana de receso.
+              span Semana de receso.
             li.mb-1
               i.lista-ul__vineta
-              span
-                em Vacaciones escolares de fin de año.
+              span Vacaciones escolares de fin de año.
             li.mb-1
               i.lista-ul__vineta
-              span
-                em Fines de semana con días festivos.
+              span Fines de semana con días festivos.
             li.mb-0
               i.lista-ul__vineta
               span En consecuencia, la baja temporada, serían los períodos opuestos. Este ejemplo es aplicable solo a destinos con vocación puramente turística.
