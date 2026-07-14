@@ -48,7 +48,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Net or floor rate</em> / Tarifa neta o de piso
-              p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks and <em>marketing</em> platforms, on which they can generate their profit or mark-up.</em>
+              p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks, and <em>marketing</em> platforms, on which they can generate their profit or markup.</em>
               p.mb-0 Esta es la tarifa que se asigna a intermediarios como agencias de viaje, bancos de camas y plataformas de <em>marketing</em>, sobre la cual ellos pueden generar su utilidad o sobreprecio.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img05.png", alt="").img-fluid.mx-auto
@@ -56,7 +56,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Confirmed rate</em> / Tarifa confirmada
-              p.mb-2 <em>It is the rate that was informed to the client at the time of booking. If when the guest arrives there is not available room according to the confirmed rate, another one of better category is usually given for the same price, which means doing an upgrade.</em>
+              p.mb-2 <em>It is the rate that was informed to the client at the time of booking. If, when the guest arrives, there is not an available room according to the confirmed rate, another one of better category is usually given for the same price, which means doing an upgrade.</em>
               p.mb-0 Es la tarifa que se le informó al cliente al momento de la reserva. Si al llegar el huésped no hay disponible una habitación acorde con la tarifa confirmada, se suele dar otra de mejor categoría por el mismo precio, lo que significa hacer una mejora.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img06.png", alt="").img-fluid.mx-auto
@@ -82,12 +82,12 @@
       .col-lg-12
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Promotional rates</em> / Tarifas promocionales")
-            p.mb-3 <em>They are discounts which are applied for hotel promotion purposes, following some policies and restrictions. Example: non-refundable rates, children under 12 do not pay, pay 3 nights and stay 4.</em>
+            p.mb-3 <em>They are discounts that are applied for hotel promotion purposes, following some policies and restrictions. Example: non-refundable rates, children under 12 do not pay, pay 3 nights and stay 4.</em>
             p.mb-0 Son los descuentos que se aplican para fines de promoción del hotel, siguiendo unas políticas y restricciones. Ejemplo: tarifas no reembolsables, menores de 12 años no pagan, pague 3 noches y hospédese 4.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>BAR Rate</em> / Tarifa BAR")
-            p.mb-3 <em>With the increase in distribution channels, there was a time when the hotelier lost control over his price. It was common to see clients arriving at the hotel who had found, through an intermediary, a lower rate than the one offered directly by the hotel. To solve this problem, strengthen direct sales, and increase rate transparency, hoteliers began to publish the BAR (Best Available Rate) on their websites. The Best Available Rate guarantees that a lower rate will not be found in any distribution channel. The management of this type of rate is not only about price, but also about the value of the rate.</em>
-            p.mb-0 Con el aumento de los canales de distribución, hubo un momento en que el hotelero perdió el control sobre su precio. Era usual que llegaran clientes al hotel que habían encontrado, a través de un intermediario, una tarifa inferior que la ofrecida directamente por el hotel. Para dar solución a esta problemática, fortalecer la venta directa y aumentar la transparencia de las tarifas, los hoteleros comenzaron a publicar en sus webs la BAR (<em>Best Available Rate</em>, en inglés). La mejor tarifa disponible garantiza que no se va a encontrar una tarifa inferior en ningún canal de distribución. El manejo de este tipo de tarifas no tiene que ver solo con precio, sino con el valor de la tarifa.
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<em>BAR rate</em> / Tarifa BAR")
+            p.mb-3 <em>With the increase in distribution channels, there was a time when the hotelier lost control over his price. It was common to see clients arriving at the hotel who had found, through an intermediary, a lower rate than the one offered directly by the hotel. To solve this problem, strengthen direct sales, and increase rate transparency; hoteliers began to publish the BAR (Best Available Rate) on their websites. The Best Available Rate guarantees that a lower rate will not be found in any distribution channel. The management of this type of rate is not only about price but also about the value of the rate.</em>
+            p.mb-0 Con el aumento de los canales de distribución, hubo un momento en que el hotelero perdió el control sobre su precio. Era usual que llegaran clientes al hotel que habían encontrado, a través de un intermediario, una tarifa inferior que la ofrecida directamente por el hotel. Para dar solución a esta problemática, fortalecer la venta directa y aumentar la transparencia de las tarifas, los hoteleros comenzaron a publicar en sus webs la BAR (<em>Best Available Rate</em>, en inglés). La mejor tarifa disponible garantiza que no se va a encontrar una tarifa inferior en ningún canal de distribución. El manejo de este tipo de tarifas no tiene que ver solo con el precio, sino con el valor de la tarifa.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Group rates</em> / Tarifa grupo o evento")
             p.mb-3 <em>These rates are created based on availability and market conditions at the time the quote is requested. And they apply to groups or special events, for example, fairs, concerts, congresses.</em>
@@ -98,7 +98,7 @@
             p.mb-0 Aplica para un número mínimo de noches al mes. Con alguna frecuencia, hay personas que deciden vivir en hoteles, debido a las ventajas que ello les proporciona, y se catalogan como huéspedes permanentes.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Packages or plans</em> / Paquetes o planes")
-            p.mb-3 <em>Packages are a way to market hotel products, to provide customers with more services, for more attractive prices. It can be packaged with own or third-party products. Example: wedding night plan, package with food and tour included.</em>
+            p.mb-3 <em>Packages are a way to market hotel products, to provide customers with more services, for more attractive prices. It can be packaged with its own or third-party products. Example: wedding night plan, package with food and tour included.</em>
             p.mb-0 Los paquetes son una forma de comercializar productos hoteleros, para brindar a los clientes más servicios, por precios más atractivos. Se puede empaquetar con productos propios o de terceros. Ejemplo: plan noche de bodas, paquete con alimentación y excursiones incluidas.
 
 
@@ -192,7 +192,7 @@
 
       .col-lg-9
         h4.mb-3 <em>Meal plans</em> / Planes de alimentación
-        p.mb-3(data-aos="fade-right") <em>Hotels offer plans beside to the accommodation, with the purpose of promoting the second line of the hotel industry, which is the sale of food and beverage services.</em>
+        p.mb-3(data-aos="fade-right") <em>Hotels offer plans in addition to the accommodation, with the purpose of promoting the second line of the hotel industry, which is the sale of food and beverage services.</em>
         p.mb-3(data-aos="fade-right") Los hoteles ofrecen planes junto al alojamiento con el propósito de promover el segundo renglón de la industria hotelera, que es la venta de servicios de alimentos y bebidas.
         p.mb-3(data-aos="fade-right") <em>Generally, hotels offer the client several plans that are determined by the basic price of the room and the most suitable food option for the client.</em>
         p.mb-0(data-aos="fade-right") Generalmente, los hoteles ponen a disposición del cliente varios planes, que están determinados por el precio básico de la habitación y la opción de alimentación más adecuada para el cliente.
@@ -226,7 +226,7 @@
               .col-8  
                 img(src='@/assets/curso/tema1/img13.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>American plan</em>
-            p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            p.mb-2.text-center <em>Includes room rate plus american breakfast + lunch + dinner.</em>
 
             p.text-center.mb-2 <em>Modified American Plan (PAM): It includes the room and two meals a day, usually breakfast and one of the meals (lunch or dinner).</em>
 
@@ -238,8 +238,8 @@
             .row.justify-content-center.mb-3
               .col-8  
                 img(src='@/assets/curso/tema1/img14.svg' alt="", style="width: 90px;").mx-auto
-            h5.text-center.mb-2 <em>All Inclusive</em>
-            p.mb-2.text-center <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            h5.text-center.mb-2 <em>All inclusive</em>
+            p.mb-2.text-center <em>Includes room rate plus american breakfast + lunch + dinner.</em>
             h5.text-center Plan todo incluido
             p.mb-0.text-center Incluye tarifa de habitación, desayuno, almuerzo y comida, y actividades programadas.
 
@@ -248,9 +248,9 @@
               .col-8  
                 img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>Bed & breakfast</em>
-            p.mb-2.text-center <em>Includes room rate plus Full breakfast.</em>
+            p.mb-2.text-center <em>Includes room rate plus full breakfast.</em>
             h5.text-center <em>Bed & Breakfast</em>
-            p.mb-0.text-center Incluye Cama y Desayuno. Ofrecen habitación con desayuno completo.
+            p.mb-0.text-center Incluye cama y desayuno. Ofrecen habitación con desayuno completo.
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -288,7 +288,7 @@
                 img(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')
               .tarjeta.bg-color-24.align-content-center
                 .p-3
-                  p.mb-0 <b><em>Promotional codes: </em></b><em>these are codes made up of numbers or letters and that when applied to payment generate a reduction in value. Example: “GET10”. The instruction would show something like: “By entering the code, get a 10 % discount on selected items.”</em>
+                  p.mb-0 <b><em>Promotional codes: </em></b><em>these are codes made up of numbers or letters and that, when applied to payment, generate a reduction in value. Example: “GET10”. The instruction would show something like: “By entering the code, get a 10% discount on selected items.”</em>
 
           .col-xl-6.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
@@ -296,7 +296,7 @@
                 img(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')
               .tarjeta.bg-color-24.align-content-center
                 .p-3
-                  p.mb-0 <b><em>Discount plans: </em></b><em>here the discount promotes packaged products: Stay 3 nights x $300 and get all meals for free.</em>
+                  p.mb-0 <b><em>Discount plans: </em></b><em>here the discount promotes packaged products: stay 3 nights for $300 and get all meals for free.</em>
 
       .col-lg-3.col-md-8.order-1.order-lg-1.mb-4.mb-lg-0
         figure
@@ -320,7 +320,7 @@
                 img(src='@/assets/curso/tema1/img20.svg' alt='AvatarTop')
               .tarjeta.bg-color-24.align-content-center
                 .p-3
-                  p.mb-0 <b><em>Direct discounts: </em></b><em>this type of discount uses the strategy of showing the discount and the original price crossed out, to give the customer the perception that they are benefiting. Before $ 250,000 - Today $ 187,500. Save 25 %.</em>
+                  p.mb-0 <b><em>Direct discounts: </em></b><em>this type of discount uses the strategy of showing the discount and the original price crossed out, to give the customer the perception that they are benefiting. Before $250,000 - Today $187,500. Save 25%.</em>
 
     p.mb-5 Los descuentos son una forma de promoción. Por medio de esta práctica, se logra, entre otras cosas:
 
@@ -372,14 +372,14 @@
                   .col-8  
                     img(src='@/assets/curso/tema1/img27.svg' alt="", style="width: 100px;").mx-auto
                 h5.text-center.mb-2 Descuentos en noches
-                p.text-center.mb-0 Este tipo de descuentos busca aumentar la ocupación en fechas con baja concurrencia: Pague 3 noches de alojamiento y obtenga la cuarta noche gratis.
+                p.text-center.mb-0 Este tipo de descuentos busca aumentar la ocupación en fechas con baja concurrencia: pague 3 noches de alojamiento y obtenga la cuarta noche gratis.
 
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
                     img(src='@/assets/curso/tema1/img28.svg' alt="", style="width: 100px;").mx-auto
                 h5.text-center.mb-2 Descuentos directos
-                p.text-center.mb-0 Este tipo de descuentos usa la estrategia de mostrar el descuento y el precio original tachado, para dar la percepción al cliente de que se está beneficiando. Antes $ 250.000 - Hoy $ 187.500. Ahorre 25 %.
+                p.text-center.mb-0 Este tipo de descuentos usa la estrategia de mostrar el descuento y el precio original tachado, para dar la percepción al cliente de que se está beneficiando. Antes $250.000 - hoy $187.500. Ahorre 25 %.
 
 
 
@@ -529,11 +529,11 @@
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Adverbs</em>")
             .row.align-items-center
-              p.mb-3 <em>Adverbs are words that complement a verb, an adjective, or another adverb. These complement the meaning of the verb that they modify indicating the form, the frequency, or the place where things happen.</em>
+              p.mb-3 <em>Adverbs are words that complement a verb, an adjective, or another adverb. These complement the meaning of the verb that they modify, indicating the form, the frequency, or the place where things happen.</em>
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Adverbios")
             .row.align-items-center
-              p.mb-3 Los adverbios son palabras que complementan un verbo, un adjetivo u otro adverbio. Estos complementan el significado del verbo que modifican indicando la forma, la frecuencia o el lugar donde suceden las cosas.
+              p.mb-3 Los adverbios son palabras que complementan un verbo, un adjetivo u otro adverbio. Estos complementan el significado del verbo que modifican, indicando la forma, la frecuencia o el lugar donde suceden las cosas.
 
     
     .container
@@ -543,7 +543,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0.col-md-12.order-2.order-lg-1
-        p.mb-3.mb-lg-4 <em>The adjective when is used in the superlative form describes an object that is at the upper or lower end of a quality. Like the comparative, it is used in sentences in which a subject is compare to a group, according to the following structure:</em>
+        p.mb-3.mb-lg-4 <em>The adjective when is used in the superlative form to describes an object that is at the upper or lower end of a quality. Like the comparative, it is used in sentences in which a subject is compared to a group, according to the following structure:</em>
 
         .bg-color-5.p-4.br-15.mb-0(data-aos="fade-right")
           p.mb-3 <em>Noun (subject) + verb + the + adjective in superlative degree + noun (object).</em>
@@ -705,8 +705,8 @@
         p.mb-3 <em>It would be $72,66 dollars (seventy-two dollars and sixty-six cents).</em>
         p.mb-0 En contextos de atención al cliente, hospitalidad y servicios administrativos, es posible que deba expresar cantidades al referirse a cuentas, precios, facturas o pagos. Los siguientes ejemplos muestran cómo pueden expresarse correctamente las cantidades en inglés.
         p.mb-0 Ejemplo:
-        p.mb-0 Sr. Pedroza su cuenta total es $254.325 pesos colombianos (doscientos cincuenta y cuatro mil trescientos veinticinco pesos colombianos).
-        p.mb-0 Serian $ 72,66 dólares (setenta y dos dólares con sesenta y seis centavos).
+        p.mb-0 Sr. Pedroza, su cuenta total es $254.325 pesos colombianos (doscientos cincuenta y cuatro mil trescientos veinticinco pesos colombianos).
+        p.mb-0 Serían $72,66 dólares (setenta y dos dólares con sesenta y seis centavos).
 
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0.order-1.order-lg-1
@@ -721,6 +721,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
+                p.mb-3 <em>You are invited to review the following video to supplement the information.</em>
                 p.mb-0 Se invita a revisar el siguiente video para complementar la información.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")

@@ -51,7 +51,7 @@
           .titulo-con-imagen__fondo_2
             h3.titulo-con-imagen__texto_2 <em>Titles</em> / Títulos
 
-        p.mb-3 <em>When talking about titles in English, we refer to the formality with which people are treated according to gender. There are titles of common use and formal titles, which sometimes are referred to the professions and others to the nobility.</em>
+        p.mb-3 <em>When talking about titles in English, we refer to the formality with which people are treated according to gender. There are titles of common use and formal titles, which sometimes refer to the professions and others to the nobility.</em>
         p.mb-0 Cuando se habla de títulos en inglés, se hace referencia a la formalidad con la que se trata a las personas según el género. Hay títulos de uso común y títulos formales, que a veces se refieren a las profesiones y otros a la nobleza.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -88,12 +88,12 @@
               p.mb-0 <em><b>Lady</b>: used to address female companions with the rank of baroness, viscountess, countess, and marchioness, or wives of men who hold equivalent titles.</em>
               p.mb-0 <em><b>Excellence</b>: this is a title of honor given to certain high officials, such as governors, ambassadors, royalty, nobility, and Roman Catholic bishops and archbishops, (preceded by “your”).</em>
               p.mb-2 <em><b>Honorable</b>: it is used for judges, mayors, and magistrates in some countries. (Martin, 1990).</em>
-              p.mb-2 Ahora refiriéndose a los títulos formales, estos deben ser utilizados con personas que poseen una dignidad, como reyes, reinas, embajadores, presidentes. En ese caso se utiliza:
-              p.mb-0 <b>Majestad</b>: es el título utilizado para dirigirse a los monarcas (los Reyes y sus consortes). Se utiliza precedido por “Su”.
+              p.mb-2 Ahora, refiriéndose a los títulos formales, estos deben ser utilizados con personas que poseen una dignidad, como reyes, reinas, embajadores, presidentes. En ese caso se utiliza:
+              p.mb-0 <b>Majestad</b>: es el título utilizado para dirigirse a los monarcas (los reyes y sus consortes). Se utiliza precedido por “Su”.
               p.mb-0 <b>Alteza Real</b>: es el título utilizado para dirigirse a los miembros de las familias reales, por lo general, príncipes o princesas y sus consortes. Es utilizado precedido por “Su”.
               p.mb-0 <b>Señor</b>: use este título para varones masculinos, vizcondes, condes y marqueses, así como para algunos de sus hijos.
               p.mb-0 <b>Dama</b>: se usa para dirigirse a las compañeras con el rango de baronesa, vizcondesa, condesa y marquesa, o a las esposas de hombres que tienen los títulos equivalentes.
-              p.mb-0 <b>Excelencia</b>: este es un título de honor dado a ciertos altos funcionarios, como gobernadores, ambajadores, realeza, nobleza, y obispos y arzobispos católicos romanos (precedidos por “Su”).
+              p.mb-0 <b>Excelencia</b>: este es un título de honor dado a ciertos altos funcionarios, como gobernadores, embajadores, realeza, nobleza y obispos y arzobispos católicos romanos (precedidos por “Su”).
               p.mb-0 <b>Honorable</b>: se utiliza para jueces, alcaldes y magistrados en algunos países.
 
             .col-lg-2.order-2.order-lg-1.d-none.d-lg-flex
@@ -151,7 +151,7 @@
             p.ms-5.mb-0 Es una reserva que se realiza para luego ser confirmada o garantizada. En caso de que no se produzca ningún movimiento con la reserva dentro de un plazo previamente estipulado, la reserva se cancela.
 
           div(titulo="<em>Waiting list booking</em> / Reserva en lista de espera")
-            p.ms-5.mb-3 <em>When a particular date is fully sold, i.e., occupancy for that night is projected at one hundred percent (100 %) of the rooms. In this case the hotel, according to its policy, can receive additional reservations, which will go to a waiting list. In practice, this means that, if any of the previously registered reservations are not submitted, the reservations on the waiting list will come in to replace those reservations.</em>
+            p.ms-5.mb-3 <em>When a particular date is fully sold, i.e., occupancy for that night is projected at one hundred percent (100%) of the rooms. In this case the hotel, according to its policy, can receive additional reservations, which will go to a waiting list. In practice, this means that, if any of the previously registered reservations are not submitted, the reservations on the waiting list will come in to replace those reservations.</em>
             p.ms-5.mb-0 Cuando una fecha en particular se vende por completo, es decir, la ocupación para esa noche se proyecta en cien por ciento (100 %) de las habitaciones. En este caso, el hotel, de acuerdo con sus políticas, puede recibir reservas adicionales, que irán a una lista de espera. En la práctica, esto significa que, si no se presenta alguna de las reservas previamente registradas, las reservas en la lista de espera entrarán en sustitución de dichas reservas.
 
           div(titulo="<em>V.I.P. Reservations</em> / Reservas V.I.P.")

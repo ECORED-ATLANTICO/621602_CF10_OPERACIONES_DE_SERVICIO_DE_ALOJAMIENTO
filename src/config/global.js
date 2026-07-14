@@ -31,7 +31,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          '<em>Guest Information and Reservations</em> / Información del huésped y reservas',
+          '<em>Guest Information and reservations</em> / Información del huésped y reservas',
         desarrolloContenidos: true,
       },
       {
