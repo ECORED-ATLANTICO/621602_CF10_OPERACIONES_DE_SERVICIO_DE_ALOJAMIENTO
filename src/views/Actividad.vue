@@ -21,10 +21,10 @@ export default {
         '<em>English for hospitality services: Guest service challenge</em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la apropiación de vocabulario y expresiones en inglés relacionadas con reservas, alojamiento, pagos y atención al huésped.',
+        '<b>Objetivo:</b> evaluar la apropiación de vocabulario y expresiones en inglés relacionadas con reservas, alojamiento, pagos y atención al huésped.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,
@@ -39,7 +39,7 @@ export default {
             { id: 'd', texto: '<em>Group Rate.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Ha identificado adecuadamente el concepto evaluado.',
+            'Ha identificado adecuadamente el concepto evaluado.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -71,7 +71,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto! <em>BAR Rate</em> corresponde a la mejor tarifa disponible para una fecha determinada.',
+            'Correcto! BAR Rate corresponde a la mejor tarifa disponible para una fecha determinada.',
           mensaje_incorrecto:
             'Repase el significado de las tarifas utilizadas en establecimientos hoteleros.',
         },
@@ -87,7 +87,7 @@ export default {
             { id: 'd', texto: 'Atractivos turísticos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los datos básicos de una reserva incluyen identificación y fechas de alojamiento.',
+            'Los datos básicos de una reserva incluyen identificación y fechas de alojamiento.',
           mensaje_incorrecto:
             'Revise el proceso de toma y confirmación de reservas.',
         },
@@ -107,9 +107,9 @@ export default {
             { id: 'd', texto: 'Reducir atención.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El deletreo permite registrar correctamente la información del huésped.',
+            'El deletreo permite registrar correctamente la información del huésped.',
           mensaje_incorrecto:
-            'Repase la importancia de la información del huésped durante el <em>check-in</em> y las reservas.',
+            'Repase la importancia de la información del huésped durante el check-in y las reservas.',
         },
         {
           id: 5,
@@ -123,7 +123,7 @@ export default {
             { id: 'd', texto: '<em>Ms.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! <em>Mr.</em> es el título de cortesía utilizado para hombres adultos.',
+            'Mr. es el título de cortesía utilizado para hombres adultos.',
           mensaje_incorrecto:
             'Revise los títulos de cortesía utilizados en inglés.',
         },
@@ -139,7 +139,7 @@ export default {
             { id: 'd', texto: 'Residente.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los huéspedes corporativos viajan generalmente por motivos laborales.',
+            'Los huéspedes corporativos viajan generalmente por motivos laborales.',
           mensaje_incorrecto:
             'Repase los tipos de clientes más comunes en hotelería.',
         },
@@ -155,7 +155,7 @@ export default {
             { id: 'd', texto: '<em>Family.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La <em>Single Room</em> está diseñada para alojar a una sola persona.',
+            'La Single Room está diseñada para alojar a una sola persona.',
           mensaje_incorrecto:
             'Revise los tipos de habitaciones y su capacidad.',
         },
@@ -171,7 +171,7 @@ export default {
             { id: 'd', texto: 'Libra.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El peso colombiano (COP) es la moneda oficial del país.',
+            'El peso colombiano (COP) es la moneda oficial del país.',
           mensaje_incorrecto:
             'Repase las formas de pago y la moneda oficial utilizada en Colombia.',
         },
@@ -187,7 +187,7 @@ export default {
             { id: 'd', texto: '<em>Amex.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Nequi es una de las billeteras digitales más utilizadas en Colombia.',
+            'Nequi es una de las billeteras digitales más utilizadas en Colombia.',
           mensaje_incorrecto:
             'Revise los medios de pago digitales abordados en el componente.',
         },
@@ -203,7 +203,7 @@ export default {
             { id: 'd', texto: 'Vale.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pasarelas de pago permiten transacciones mediante QR y enlaces.',
+            'Las pasarelas de pago permiten transacciones mediante QR y enlaces.',
           mensaje_incorrecto:
             'Repase las opciones de pago electrónico y digital.',
         },
@@ -219,7 +219,7 @@ export default {
             { id: 'd', texto: '<em>2026 July.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Esa es una forma adecuada de expresar fechas en inglés.',
+            'Esa es una forma adecuada de expresar fechas en inglés.',
           mensaje_incorrecto:
             'Revise la estructura utilizada para expresar fechas en inglés.',
         },
@@ -235,7 +235,7 @@ export default {
             { id: 'd', texto: '<em>Check-in.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! <em>Summer</em> corresponde a una de las estaciones del año.',
+            'Summer corresponde a una de las estaciones del año.',
           mensaje_incorrecto:
             'Repase el vocabulario relacionado con las estaciones.',
         },
@@ -255,7 +255,7 @@ export default {
             { id: 'd', texto: '<em>Credit card.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La expresión representa una operación matemática básica en inglés.',
+            'La expresión representa una operación matemática básica en inglés.',
           mensaje_incorrecto:
             'Revise las expresiones numéricas y matemáticas estudiadas.',
         },
@@ -270,8 +270,7 @@ export default {
             { id: 'c', texto: '7:30.', esCorrecta: false },
             { id: 'd', texto: '8:45.', esCorrecta: false },
           ],
-          mensaje_correcto:
-            '¡Correcto! <em>Half past eight</em> equivale a las 8:30.',
+          mensaje_correcto: 'Half past eight equivale a las 8:30.',
           mensaje_incorrecto:
             'Repase las formas de expresar la hora en inglés.',
         },
@@ -286,8 +285,7 @@ export default {
             { id: 'c', texto: '<em>Busy.</em>', esCorrecta: false },
             { id: 'd', texto: '<em>Expensive.</em>', esCorrecta: false },
           ],
-          mensaje_correcto:
-            '¡Correcto! <em>Peaceful</em> describe un lugar tranquilo y agradable.',
+          mensaje_correcto: 'Peaceful describe un lugar tranquilo y agradable.',
           mensaje_incorrecto:
             'Revise los adjetivos descriptivos utilizados para lugares.',
         },
@@ -303,7 +301,7 @@ export default {
             { id: 'd', texto: 'Remitir siempre.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La atención efectiva comienza escuchando las necesidades del huésped.',
+            'La atención efectiva comienza escuchando las necesidades del huésped.',
           mensaje_incorrecto:
             'Repase las estrategias de atención en situaciones especiales.',
         },
@@ -323,7 +321,7 @@ export default {
             { id: 'd', texto: '<em>They have.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! <em>Be friendly</em> es una instrucción expresada en modo imperativo.',
+            'Be friendly es una instrucción expresada en modo imperativo.',
           mensaje_incorrecto:
             'Revise el uso de los imperativos para dar instrucciones.',
         },
@@ -351,7 +349,7 @@ export default {
             { id: 'd', texto: '<em>Speak English.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los imperativos negativos indican acciones que no deben realizarse.',
+            'Los imperativos negativos indican acciones que no deben realizarse.',
           mensaje_incorrecto:
             'Repase las estructuras afirmativas y negativas del imperativo.',
         },
@@ -367,7 +365,7 @@ export default {
             { id: 'd', texto: 'Mecánica.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La comunicación efectiva favorece una experiencia positiva para el huésped.',
+            'La comunicación efectiva favorece una experiencia positiva para el huésped.',
           mensaje_incorrecto:
             'Revise las competencias de servicio y atención al cliente.',
         },
@@ -387,7 +385,7 @@ export default {
             { id: 'd', texto: 'Crear <em>software.</em>', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El componente busca fortalecer la comunicación en inglés aplicada a la hotelería.',
+            'El componente busca fortalecer la comunicación en inglés aplicada a la hotelería.',
           mensaje_incorrecto:
             'Revise el propósito y alcance general del componente formativo.',
         },

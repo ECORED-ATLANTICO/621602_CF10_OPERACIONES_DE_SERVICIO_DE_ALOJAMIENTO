@@ -18,7 +18,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Este componente formativo fortalece las competencias comunicativas en inglés aplicadas al sector hotelero. Desarrolla habilidades para gestionar reservas, atender huéspedes, brindar información, manejar procesos de alojamiento, utilizar expresiones numéricas y responder a situaciones de servicio, favoreciendo una comunicación efectiva y profesional en contextos de hospitalidad.")
+          img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual jerárquico del componente formativo “English for Hospitality Services”. En la parte superior se ubica el tema central, del cual se desprenden seis componentes principales organizados en el mismo nivel jerárquico. De izquierda a derecha, los componentes son: “Rates and Customer Transactions”, “Guest Information and Reservations”, “Clients, Accommodation and Payments”, “Dates, Seasons and Numerical Expressions”, “Schedules and Describing Places” y “Service Situations and Instructions”. La estructura representa la organización general de los contenidos del componente formativo relacionados con la comunicación en inglés aplicada al sector hotelero y de atención al cliente.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

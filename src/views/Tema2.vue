@@ -102,13 +102,13 @@
           .row(titulo="<em>Academic titles</em> / Títulos académicos").align-items-center.text-left
             .col-lg-10.order-1.order-lg-1
               h3 Paso 3
-              p.text-bold.mb-0 <em>Finally, there are academic titles, that are used to recognize people with high educational degrees or positions. The most used are:</em>
-              p.mb-0 <em>Dr: (abbreviation for doctor) for the holder of a doctoral degree (e.g., PhD, MD) and for medical practitioners, dentists, and veterinary surgeons.</em>
+              p.text-bold.mb-0 <em>Finally, there are academic titles that are used to recognize people with high educational degrees or positions. The most used are:</em>
+              p.mb-0 <em>Dr.: (abbreviation for doctor) for the holder of a doctoral degree (e.g., PhD, MD) and for medical practitioners, dentists, and veterinary surgeons.</em>
               p.mb-0 <em>Professor: for a person who holds the academic rank of professor in a university or other institution.</em>
               p.mb-0 <em>Chancellor: for the chancellor of a university.</em>
               p.mb-2 <em>Principal, President, Master, Warden, Dean, Regent, Director, or Chief Executive: as appropriate for heads of colleges at the universities.</em>
               p.mb-2 Por último, están los títulos académicos, que se utilizan para reconocer a personas con altos títulos o cargos educativos. Los más utilizados son:
-              p.mb-0 Dr: (abreviatura de doctor) para el poseedor de un título de doctorado (por ejemplo, <em>PhD</em>, <em>MD</em>) y para médicos, dentistas y veterinarios.
+              p.mb-0 Dr.: (abreviatura de doctor) para el poseedor de un título de doctorado (por ejemplo, <em>PhD</em>, <em>MD</em>) y para médicos, dentistas y veterinarios.
               p.mb-0 Profesor: para una persona que tiene el rango académico de profesor en una universidad u otra institución.
               p.mb-0 Canciller: para el canciller de la universidad.
               p.mb-0 Director, Presidente, Maestro, Alcaide, Decano, Regente, Rector, Director Ejecutivo: según corresponda, para los directivos de las universidades.
@@ -131,7 +131,7 @@
         figure
           img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
       .col-lg-10
-        p.mb-3(data-aos="fade-right") <em>A reservation is the beginning of the agreement between the hotel and a natural or legal person, which results in the accommodation contract, in which the former undertakes to provide the accommodation service under specified characteristics and the latter undertakes to use this service on the agreed date, making a payment for it. Based on this concept there are some types of reservations in the hotel environment, such as:</em>
+        p.mb-3(data-aos="fade-right") <em>A reservation is the beginning of the agreement between the hotel and a natural or legal person, which results in the accommodation contract, in which the former undertakes to provide the accommodation service under specified characteristics and the latter undertakes to use this service on the agreed date, making a payment for it. Based on this concept, there are some types of reservations in the hotel environment, such as:</em>
         p.mb-0 Una reserva es el inicio del acuerdo entre el hotel y una persona física o jurídica, que da lugar al contrato de alojamiento, en el que el primero se compromete a prestar el servicio de alojamiento bajo características específicas y el segundo se compromete a utilizar este servicio en la fecha acordada, haciendo un pago por el mismo. Con base en este concepto, existen algunos tipos de reservas en el entorno hotelero, tales como:
 
     .row.mb-5.justify-content-center.align-items-center
@@ -210,7 +210,7 @@
                 p.mb-0 A continuación, se presenta un video sobre el proceso de reservación, en el que se destacan aspectos clave para la realización y gestión de reservas en el contexto hotelero.
 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MbPhrvkKgH0" target="_blank")
                   span Consultar video
                   i.fab.fa-youtube
 
@@ -282,7 +282,7 @@
               span Carácter de la reserva (flexible, no reembolsable).
             li.mb-1
               i.lista-ul__vineta
-              span Si se requiere pago anticipado y la fecha máxima para realizarlo.
+              span Sí se requiere pago anticipado y la fecha máxima para realizarlo.
             li.mb-1
               i.lista-ul__vineta
               span Política de cancelación.
@@ -290,7 +290,7 @@
               i.lista-ul__vineta
               span Aceptación.
 
-        p.mb-0 Todas estos términos y condiciones deben estar contenidos en un documento publicado en la web del hotel o entregado al titular de la reserva al momento de recibir la confirmación.
+        p.mb-0 Todos estos términos y condiciones deben estar contenidos en un documento publicado en la web del hotel o entregado al titular de la reserva al momento de recibir la confirmación.
 
 
 
@@ -328,7 +328,7 @@
       img(src="@/assets/curso/tema2/img17.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text <em>They are agreements established by management between the guest and the establishment and are aimed to clarify the conditions of service provision and the rules of behavior within the establishment. These rules are mentioned on the registration card that the guest signs at the check-in time. In addition to this, a copy of the rules and regulations should also be arranged in all rooms and posted on the website so that guests read and understand the management policies. This may also include local government policies that have to be followed by the guest. <br><br>The most common policies and rules are:</em>
+        p.banner-text <em>They are agreements established by management between the guest and the establishment and are aimed at clarifying the conditions of service provision and the rules of behavior within the establishment. These rules are mentioned on the registration card that the guest signs at the check-in time. In addition to this, a copy of the rules and regulations should also be arranged in all rooms and posted on the website so that guests read and understand the management policies. This may also include local government policies that have to be followed by the guest. <br><br>The most common policies and rules are:</em>
 
 
     .row.align-items-center.mb-5

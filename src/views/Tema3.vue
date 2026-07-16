@@ -54,13 +54,13 @@
       .col-lg-12
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Corporate</em> / Corporativo")
-            p.mb-3 <em>They are customers who travel for work or business reasons, their stay usually does not exceed one week. They tend to be very demanding with service and are usually less price sensitive.</em>
-            p.mb-0 Son los clientes que viajan por motivos de trabajo o negocios, su permanencia generalmente no excede una semana. Suelen ser muy exigentes con el servicio, y por lo general son menos sensibles al precio.
+            p.mb-3 <em>They are customers who travel for work or business reasons; their stay usually does not exceed one week. They tend to be very demanding with service and are usually less price sensitive.</em>
+            p.mb-0 Son los clientes que viajan por motivos de trabajo o negocios; su permanencia generalmente no excede una semana. Suelen ser muy exigentes con el servicio, y por lo general son menos sensibles al precio.
         
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Senior citizens</em> / Tercera edad")
             p.mb-3 <em>Older adults who, due to their availability of time and resources, generally travel for leisure purposes. They are known as the “Boomer” generation.</em>
-            p.mb-0 Los adultos mayores que por su disponibilidad de tiempo y recursos viajan generalmente con fines de esparcimiento. Se les conoce como la generación “Boomer”.
+            p.mb-0 Los adultos mayores que, por su disponibilidad de tiempo y recursos, viajan generalmente con fines de esparcimiento. Se les conoce como la generación “<em>Boomer</em>”.
               
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Families</em> / Familias")
@@ -71,12 +71,12 @@
             p.mb-0 Son personas que trabajan con el Estado y viajan por trabajo, pero tienen un matiz adicional y es que, por lo general y en virtud del cargo que desempeñan o del rango que tienen, su tratamiento puede requerir un protocolo específico, principalmente por su seguridad.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Groups</em> / Grupos")
-            p.mb-3 <em>This type of guests is a congregation of people traveling on the same dates and with similar travel motivations (a convention, a tour, etc.) They have certain specific treatments and services common to all of them.</em>
+            p.mb-3 <em>This type of guests is a congregation of people traveling on the same dates and with similar travel motivations (a convention, a tour, etc.). They have certain specific treatments and services common to all of them.</em>
             p.mb-0 Esta tipología de huéspedes es una congregación de personas que viajan en las mismas fechas y con motivaciones de viaje similares (una convención, un <em>tour</em>, etc.). Poseen ciertos tratamientos y servicios específicos comunes a todos ellos.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Luxury travelers</em> / Viajeros de lujo")
             p.mb-3 <em>These travelers are the ones who have the highest expectations and are willing to pay for the experience. Usually, the price is not a problem for them. They are sophisticated and pay a lot of attention to the value of what they get (value for money).</em>
-            p.mb-0 Estos viajeros son los que tienen mayores expectativas y están dispuestos a pagar por la experiencia. Por lo general, el precio no es problema para ellos. Son sofisticados y se fijan mucho en el valor de lo que obtienen, (relación calidad/precio).
+            p.mb-0 Estos viajeros son los que tienen mayores expectativas y están dispuestos a pagar por la experiencia. Por lo general, el precio no es problema para ellos. Son sofisticados y se fijan mucho en el valor de lo que obtienen (relación calidad/precio).
            
 
     p.mb-3(data-aos="fade-right") <em>By identifying these types of travelers, it will be easier for you to address them properly.</em>
@@ -140,7 +140,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
           div(titulo="<em>Documents</em> / Documentos")
             p.ms-5.mb-3 <em>The identity documents must comply with the current rules of identification and acceptance by the hotel. You must keep abreast of developments in this regard. Always be attentive to the originality of the documentation presented, and if you have any news about it, be prudent with the handling of this.</em>
-            p.ms-5.mb-0 Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte de hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada y si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
+            p.ms-5.mb-0 Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte del hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada, si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
 
           div(titulo="<em>Purpose of the trip</em> / Propósito del viaje")
             p.ms-5.mb-3 <em>It will help you reveal what type of traveler is the one in front of you, and meet the requirements and requests accordingly.</em>
@@ -211,23 +211,23 @@
               tr
                 td <em>Single bed</em>
                 td Cama sencilla
-                td 1.00 mts x 1.90 mts
+                td 1.00 m x 1.90 m
               tr
                 td <em>Semi-double bed</em>
                 td Cama semidoble
-                td 1.20 mts x 1.90 mts
+                td 1.20 m x 1.90 m
               tr
                 td <em>Full-size bed</em>
                 td Cama doble o matrimonial
-                td 1.40 mts x 1.90 mts
+                td 1.40 m x 1.90 m
               tr
                 td <em>Queen-size bed</em>
                 td Cama <em>queen</em>
-                td 1.80 mts x 1.90 mts
+                td 1.80 m x 1.90 m
               tr
                 td <em>King-size bed</em>
                 td Cama <em>king</em>
-                td 2.00 mts x 2.00 mts
+                td 2.00 m x 2.00 m
               
 
     .bg-full-width.bg-fondo-4.px-5.py-4.mb-5(data-aos="fade-right")
@@ -357,7 +357,7 @@
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Official currency in Colombia</em> / Moneda oficial en Colombia")
             p.mb-2 <em>In the Republic of Colombia, including its islands of San Andrés and Providencia, the national currency is the Colombian peso, identified by the sign of the same name ($) and whose abbreviation is COP. The national currency is presented in notes and coins.</em>
-            p.mb-3 <em>Official currency is Colombian peso (COP). These are the bills and coins.</em>
+            p.mb-3 <em>The official currency is the Colombian peso (COP). These are the bills and coins.</em>
             p.mb-0 En la República de Colombia, incluyendo sus islas de San Andrés y Providencia, la moneda nacional es el peso colombiano, identificado con el signo del mismo nombre ($) y cuya abreviatura es COP. La moneda nacional se presenta en billetes y monedas.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Foreign currency payments</em> / Pagos en moneda extranjera")
@@ -366,7 +366,7 @@
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Debit and credit cards</em> / Tarjetas débito y crédito")
             p.mb-3 <em>This is the most widespread form of payment, for its ease of use and immediate confirmation since what the cards do is to debit from the cardholder’s account and deposit into the hotel account. In this section, the important thing is to comply with the security regulations about the use of cards and identification of cardholders to avoid fraud.</em>
-            p.mb-0 Este es la forma de pago más extendida, por su facilidad de uso y confirmación inmediata, ya que las tarjetas lo que hacen es debitar de la cuenta del tarjetahabiente y depositar en la cuenta del hotel. En este apartado, lo importante es cumplir las normativas de seguridad en el uso de tarjetas e identificación de tarjetahabientes para evitar los fraudes.
+            p.mb-0 Esta es la forma de pago más extendida, por su facilidad de uso y confirmación inmediata, ya que las tarjetas lo que hacen es debitar de la cuenta del tarjetahabiente y depositar en la cuenta del hotel. En este apartado, lo importante es cumplir las normativas de seguridad en el uso de tarjetas e identificación de tarjetahabientes para evitar los fraudes.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Money collectors</em> / Recaudadores de dinero")
             p.mb-3 <em>This form of payment is becoming increasingly relevant, since they are the forms of payment used by e-commerce companies. Here can be mentioned:</em>
@@ -376,7 +376,7 @@
                 span <em>Collect terminals, such as Baloto, Efecty, Todopagos, etc.</em>
               li
                 i.lista-ul__vineta
-                span <em>Digital Wallets: Nequi, Daviplata, Mercado Pago.</em>
+                span <em>Digital wallets: Nequi, Daviplata, Mercado Pago.</em>
             p.mb-3 Esta forma de pago se está tornando cada vez más relevante, ya que son las formas de pago usadas por las compañías de comercio electrónico. Aquí se pueden mencionar:
             ul.lista-ul.mb-0
               li
@@ -384,7 +384,7 @@
                 span Terminales de recaudo, como Baloto, Efecty, Todopagos, etc.
               li
                 i.lista-ul__vineta
-                span Billeteras Digitales: Nequi, Daviplata, Mercado Pago.
+                span Billeteras digitales: Nequi, Daviplata, Mercado Pago.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Payment gateways</em> / Pasarelas de pago")
             p.mb-3 <em>These forms of payment are made available to customers through:</em>
