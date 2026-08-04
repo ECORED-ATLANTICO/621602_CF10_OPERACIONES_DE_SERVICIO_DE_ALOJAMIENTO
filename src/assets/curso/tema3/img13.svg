@@ -12,8 +12,8 @@
       <rect id="Rectángulo_461419" data-name="Rectángulo 461419" width="133.624" height="5.345" transform="translate(68.709 0.65)" fill="#a6c571"/>
       <rect id="Rectángulo_461420" data-name="Rectángulo 461420" width="49.886" height="26.725" transform="translate(81.181 13.122)" fill="#fff"/>
       <rect id="Rectángulo_461421" data-name="Rectángulo 461421" width="49.886" height="26.725" transform="translate(136.412 13.122)" fill="#fff"/>
-      <text id="_1.20_mts" data-name="1.20 mts" transform="translate(114.335 168.882)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.20 mts</tspan></text>
-      <text id="_1.90_mts" data-name="1.90 mts" transform="translate(0 83.145)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.90 mts</tspan></text>
+      <text id="_1.20_m" data-name="1.20 m" transform="translate(114.335 168.882)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.20 m</tspan></text>
+      <text id="_1.90_m" data-name="1.90 m" transform="translate(0 83.145)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.90 m</tspan></text>
       <line id="Línea_3548" data-name="Línea 3548" x2="14.253" transform="translate(49.112 0.651)"/>
       <line id="Línea_3549" data-name="Línea 3549" x2="14.253" transform="translate(49.112 0.651)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.73"/>
       <line id="Línea_3550" data-name="Línea 3550" x2="14.253" transform="translate(49.112 139.62)"/>

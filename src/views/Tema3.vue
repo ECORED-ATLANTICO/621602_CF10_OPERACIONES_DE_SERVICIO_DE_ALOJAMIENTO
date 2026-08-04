@@ -128,7 +128,7 @@
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Personal information</em> / Información personal
               p.mb-2 <em>The personal information of guests is sensitive. Remember that this is protected by confidentiality and privacy laws, so you should only inquire about the necessary and relevant data for your work. (Address, phone number, e-mail, marital status).</em>
-              p.mb-0 La información personal de los huéspedes, es delicada. Recuerde que esta está protegida por leyes de confidencialidad y privacidad, por lo que solo debe indagar por los datos necesarios y relevantes para su trabajo. (Dirección, número de teléfono, correo electrónico, estado civil).
+              p.mb-0 La información personal de los huéspedes es delicada. Recuerde que esta está protegida por leyes de confidencialidad y privacidad, por lo que solo debe indagar por los datos necesarios y relevantes para su trabajo. (Dirección, número de teléfono, correo electrónico, estado civil).
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema3/img08.png", alt="").img-fluid.mx-auto
 
@@ -140,7 +140,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
           div(titulo="<em>Documents</em> / Documentos")
             p.ms-5.mb-3 <em>The identity documents must comply with the current rules of identification and acceptance by the hotel. You must keep abreast of developments in this regard. Always be attentive to the originality of the documentation presented, and if you have any news about it, be prudent with the handling of this.</em>
-            p.ms-5.mb-0 Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte del hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada, si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
+            p.ms-5.mb-0 Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte del hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada y, si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
 
           div(titulo="<em>Purpose of the trip</em> / Propósito del viaje")
             p.ms-5.mb-3 <em>It will help you reveal what type of traveler is the one in front of you, and meet the requirements and requests accordingly.</em>

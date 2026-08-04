@@ -14,8 +14,8 @@
       <rect id="Rectángulo_461443" data-name="Rectángulo 461443" width="43.812" height="27.51" transform="translate(131.041 15.341)" fill="#fff"/>
       <rect id="Rectángulo_461444" data-name="Rectángulo 461444" width="43.812" height="27.51" transform="translate(179.135 15.341)" fill="#fff"/>
       <text id="_2.00_" data-name="2.00 " transform="translate(130.531 173.578)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2.00 </tspan></text>
-      <text id="_mts" data-name=" mts" transform="translate(154.917 173.578)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> mts</tspan></text>
-      <text id="_2.00_mts" data-name="2.00 mts" transform="translate(0.004 85.018)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2.00 mts</tspan></text>
+      <text id="m" transform="translate(154.917 173.578)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">m</tspan></text>
+      <text id="_2.00_m" data-name="2.00 m" transform="translate(0.004 85.018)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2.00 m</tspan></text>
       <line id="Línea_3584" data-name="Línea 3584" x2="14.672" transform="translate(50.554 0.67)"/>
       <line id="Línea_3585" data-name="Línea 3585" x2="14.672" transform="translate(50.554 0.67)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.73"/>
       <line id="Línea_3586" data-name="Línea 3586" x2="14.672" transform="translate(50.554 143.72)"/>
