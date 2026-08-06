@@ -48,7 +48,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Net or floor rate</em> / Tarifa neta o de piso
-              p.mb-2 <em>This is the fee that is assigned to intermediaries, such as travel agencies, bed banks, and <em>marketing</em> platforms, on which they can generate their profit or markup.</em>
+              p.mb-2 <em>It is the rate that was communicated to the guest at the time of booking. If, upon the guest's arrival, there is no room available at the confirmed rate, a room in a higher category is usually provided at the same price. This is known as an upgrade.</em>
               p.mb-0 Esta es la tarifa que se asigna a intermediarios como agencias de viaje, bancos de camas y plataformas de <em>marketing</em>, sobre la cual ellos pueden generar su utilidad o sobreprecio.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img05.png", alt="").img-fluid.mx-auto
