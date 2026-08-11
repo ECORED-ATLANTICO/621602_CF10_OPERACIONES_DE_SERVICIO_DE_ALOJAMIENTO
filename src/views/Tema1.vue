@@ -56,7 +56,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 <em>Confirmed rate</em> / Tarifa confirmada
-              p.mb-2 <em>It is the rate that was informed to the client at the time of booking. If, when the guest arrives, there is not an available room according to the confirmed rate, another one of better category is usually given for the same price, which means doing an upgrade.</em>
+              p.mb-2 <em>It is the rate that was communicated to the guest at the time of booking. If, upon the guest's arrival, there is no room available at the confirmed rate, a room in a higher category is usually provided at the same price. This is known as an upgrade.</em>
               p.mb-0 Es la tarifa que se le informó al cliente al momento de la reserva. Si al llegar el huésped no hay disponible una habitación acorde con la tarifa confirmada, se suele dar otra de mejor categoría por el mismo precio, lo que significa hacer una mejora.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img06.png", alt="").img-fluid.mx-auto

@@ -358,8 +358,8 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Official currency in Colombia</em> / Moneda oficial en Colombia")
             p.mb-2 <em>In the Republic of Colombia, including its islands of San Andrés and Providencia, the national currency is the Colombian peso, identified by the sign of the same name ($) and whose abbreviation is COP. The national currency is presented in notes and coins.</em>
             p.mb-3 <em>The official currency is the Colombian peso (COP). These are the bills and coins.</em>
-            p.mb-0 En la República de Colombia, incluyendo sus islas de San Andrés y Providencia, la moneda nacional es el peso colombiano, identificado con el signo del mismo nombre ($) y cuya abreviatura es COP. La moneda nacional se presenta en billetes y monedas.
-
+            p.mb-2 En la República de Colombia, incluyendo sus islas de San Andrés y Providencia, la moneda nacional es el peso colombiano, identificado con el signo del mismo nombre ($) y cuya abreviatura es COP. La moneda nacional se presenta en billetes y monedas.
+            p.mb-3 La moneda oficial es el peso colombiano (COP). Estos son los billetes y las monedas.
           .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Foreign currency payments</em> / Pagos en moneda extranjera")
             p.mb-3 <em>In Colombia, by regulation, it is forbidden to invoice in foreign currencies. And those who receive foreign currency as a form of payment must operate as professional money exchangers. Beyond this consideration, the currencies that are accepted in Colombia are: U.S. dollars and euros.</em>
             p.mb-0 En Colombia, por normatividad, está prohibido facturar en moneda extranjera. Y quienes reciben moneda extranjera como forma de pago deben operar como cambistas profesionales. Más allá de esta consideración, las monedas que se aceptan en Colombia son: dólares americanos y euros.
